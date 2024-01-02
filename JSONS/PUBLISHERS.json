@@ -1,0 +1,37 @@
+[
+  {
+    "id": "85893792-d3a4-47ee-b97a-e4c28dd77cb3",
+    "name": "Edipro",
+    "slug": "edipro"
+  },
+  {
+    "id": "90578950-953b-4965-bd69-52662a7006f5",
+    "name": "Editora Sextante",
+    "slug": "editora-sextante"
+  },
+  {
+    "id": "1fcdc07e-3217-42dc-912c-3d7faaeed00a",
+    "name": "DC",
+    "slug": "dc"
+  },
+  {
+    "id": "e27673a6-6c8e-4d15-8f6e-27aa97af0323",
+    "name": "Pipoca e Nanquim",
+    "slug": "pipoca-e-nanquim"
+  },
+  {
+    "id": "0a484eb3-fcdb-439b-80a1-18290c6233df",
+    "name": "Companhia das Letras",
+    "slug": "companhia-das-letras"
+  },
+  {
+    "id": "7fbc8b92-820e-4ca1-a5cc-1b659af6814e",
+    "name": "HarperCollins Brasil",
+    "slug": "harpercollins-brasil"
+  },
+  {
+    "id": "61ca5411-b022-4cad-a555-c38ff7d0ff80",
+    "name": "Pandorga Editora",
+    "slug": "pandorga-editora"
+  }
+]

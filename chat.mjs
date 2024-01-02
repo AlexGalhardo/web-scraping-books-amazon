@@ -14,7 +14,15 @@ const booksToFind = [
   'https://www.amazon.com.br/Ogiva-Graphic-Novel-Bruno-Zago/dp/6586672112',
   'https://www.amazon.com.br/Mundo-Sofia-Romance-Hist%C3%B3ria-Filosofia-ebook/dp/B00AC0ZIFA',
   'https://www.amazon.com.br/Hobbit-J-R-R-Tolkien-ebook/dp/B07S5FDTVK',
-  'https://www.amazon.com.br/Alice-no-Pa%C3%ADs-das-Maravilhas-ebook/dp/B07RL3K8ZM'
+  'https://www.amazon.com.br/Alice-Maravilhas-atrav%C3%A9s-espelho-Carroll-ebook/dp/B09H29YNYR',
+  'https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B077TGBS69',
+  'https://www.amazon.com.br/Grama-Keum-Suk-Gendry-Kim-ebook/dp/B08GQFMFMX',
+  'https://www.amazon.com.br/Calafrios-Sele%C3%A7%C3%A3o-contos-favoritos-autor-ebook/dp/B0B89YRHGP',
+  'https://www.amazon.com.br/Satsuma-Gishiden-Cr%C3%B4nicas-Leais-Guerreiros-ebook/dp/B08FVCX8HG',
+  'https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B07GX9YR93',
+  'https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B07WFH8RKZ',
+  'https://www.amazon.com.br/Peda%C3%A7o-Madeira-A%C3%A7o-Christophe-Chabout%C3%A9-ebook/dp/B07D3F7WLM',
+  'https://www.amazon.com.br/Tartarugas-Ninja-Cole%C3%A7ao-Cl%C3%A1ssica-Vol-ebook/dp/B08KBJBSR5'
 ];
 
 const books = [];
@@ -53,10 +61,16 @@ async function getBooksFromAmazon() {
           });
       });
 
+      const elementAuthor = 
+          $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim() !== '' ? 
+            $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim() 
+            : 
+            $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor, Editor)")').closest('span.author').find('a.a-link-normal').text().trim()
+
       const author = {
         id: randomUUID(),
-        name: $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim(),
-          slug: slugify($('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim(), {
+        name: elementAuthor,
+        slug: slugify(elementAuthor, {
           lower: true,
           strict: true
         }),
@@ -69,6 +83,17 @@ async function getBooksFromAmazon() {
           lower: true,
           strict: true
         })
+      }
+
+      function getTotalPages(){
+        if($('div#detailBullets_feature_div li:contains("Número de páginas") span.a-list-item span:not(.a-text-bold)').text().trim() !== '')
+          return $('div#detailBullets_feature_div li:contains("Número de páginas") span.a-list-item span:not(.a-text-bold)').text().trim()
+        
+        if($('div#detailBullets_feature_div li:contains("Capa comum") span.a-list-item span:not(.a-text-bold)').text().trim() !== '')
+          return $('div#detailBullets_feature_div li:contains("Capa comum") span.a-list-item span:not(.a-text-bold)').text().trim()
+        
+        if($('div#detailBullets_feature_div li:contains("Capa dura") span.a-list-item span:not(.a-text-bold)').text().trim() !== '')
+          return $('div#detailBullets_feature_div li:contains("Capa dura") span.a-list-item span:not(.a-text-bold)').text().trim()
       }
       
       const bookFound = {
@@ -87,10 +112,7 @@ async function getBooksFromAmazon() {
           score: $('span#acrPopover.reviewCountTextLinkedHistogram.noUnderline').attr('title').replace(' de 5 estrelas', ''),
           total_customer_reviews: $('a#acrCustomerReviewLink:first span#acrCustomerReviewText:first').text().replace('avaliações de clientes', '').trim(),
         },
-        total_pages: 
-          $('div#detailBullets_feature_div li:contains("Número de páginas") span.a-list-item span:not(.a-text-bold)').text().trim() !== '' ? 
-            $('div#detailBullets_feature_div li:contains("Número de páginas") span.a-list-item span:not(.a-text-bold)').text().trim() : 
-            $('div#detailBullets_feature_div li:contains("Capa comum") span.a-list-item span:not(.a-text-bold)').text().trim(),
+        total_pages: getTotalPages(),
         author,
         publisher,
         // categories,
@@ -105,8 +127,12 @@ async function getBooksFromAmazon() {
       }
 
       books.push(bookFound);
-      authors.push(author);
-      publishers.push(publisher);
+      if(!authors.some(item => item.slug === author.slug)){
+			  authors.push(author)
+		  }
+      if(!publishers.some(item => item.slug === publisher.slug)){
+			  publishers.push(publisher)
+		  }
     } catch (error) {
       console.error(`Error processing ${urlAmazon}: ${error.message}`);
     } finally {
@@ -120,9 +146,9 @@ async function getBooksFromAmazon() {
   const authorsJSON = JSON.stringify(authors, 'utf-8', null, 4)
   const publishersJSON = JSON.stringify(publishers, 'utf-8', null, 4)
 
-  fs.writeFileSync('./BOOKS.json', booksJSON, 'utf-8', 4)
-  fs.writeFileSync('./authors.json', authorsJSON, 'utf-8', 4)
-  fs.writeFileSync('./publishers.json', publishersJSON, 'utf-8', 4)
+  fs.writeFileSync('./JSONS/BOOKS.json', booksJSON, 'utf-8', 4)
+  fs.writeFileSync('./JSONS/AUTHORS.json', authorsJSON, 'utf-8', 4)
+  fs.writeFileSync('./JSONS/PUBLISHERS.json', publishersJSON, 'utf-8', 4)
 
   console.log(books);
 }

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "e0580654-b767-443c-a6dd-653b8032b2e5",
+    "name": "Marco Aurélio",
+    "slug": "marco-aurelio"
+  },
+  {
+    "id": "4675c134-cb47-48d6-822d-9a5004d0c91e",
+    "name": "Sêneca",
+    "slug": "seneca"
+  },
+  {
+    "id": "f1885e39-078f-4360-8f8f-c9d25d848e81",
+    "name": "Epicteto",
+    "slug": "epicteto"
+  },
+  {
+    "id": "ccb13fae-2a59-4984-bcc5-23cd56aec99c",
+    "name": "Dale Carnegie",
+    "slug": "dale-carnegie"
+  },
+  {
+    "id": "505d8622-13f8-4f3d-8acd-9d8ec2ceee54",
+    "name": "Alan Moore",
+    "slug": "alan-moore"
+  },
+  {
+    "id": "aa9f5abb-c075-4bd7-b2fc-d1ac1108135c",
+    "name": "Bruno Zago",
+    "slug": "bruno-zago"
+  },
+  {
+    "id": "ace4844e-b0d4-4328-87e6-c155b89185f5",
+    "name": "Jostein Gaarder",
+    "slug": "jostein-gaarder"
+  },
+  {
+    "id": "5f083439-003e-431e-aa74-feb2aae5989d",
+    "name": "J.R.R. Tolkien",
+    "slug": "jrr-tolkien"
+  },
+  {
+    "id": "47e479de-57f5-4b48-af88-0aaebc0aa2bb",
+    "name": "Lewis Carroll",
+    "slug": "lewis-carroll"
+  }
+]
