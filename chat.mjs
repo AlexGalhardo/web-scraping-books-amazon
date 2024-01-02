@@ -61,16 +61,21 @@ async function getBooksFromAmazon() {
           });
       });
 
-      const elementAuthor = 
-          $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim() !== '' ? 
-            $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim() 
-            : 
-            $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor, Editor)")').closest('span.author').find('a.a-link-normal').text().trim()
+      function getAuthor(){
+        if($('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim()  !== '')
+          return $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim() 
+        
+        if($('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor, Editor)")').closest('span.author').find('a.a-link-normal').text().trim() !== '')
+          return $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor, Editor)")').closest('span.author').find('a.a-link-normal').text().trim()
+        
+        if($('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor, Ilustrador)")').closest('span.author').find('a.a-link-normal').text().trim() !== '')
+          return $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor, Ilustrador)")').closest('span.author').find('a.a-link-normal').text().trim()
+      }
 
       const author = {
         id: randomUUID(),
-        name: elementAuthor,
-        slug: slugify(elementAuthor, {
+        name: getAuthor(),
+        slug: slugify(getAuthor(), {
           lower: true,
           strict: true
         }),
