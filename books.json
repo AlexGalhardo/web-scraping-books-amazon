@@ -1,110 +1,281 @@
 [
   {
-    "linkAmazon": "https://www.amazon.com.br/Medita%C3%A7%C3%B5es-Marco-Aur%C3%A9lio/dp/8552100916",
-    "customerReviewsLink": "https://www.amazon.com.br/Medita%C3%A7%C3%B5es-Marco-Aur%C3%A9lio/dp/8552100916#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/612B0id4gNL._SY342_.jpg",
+    "id": "f88970d8-f100-49cc-9bcb-46c3fae1cca8",
     "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+    "slug": "meditacoes-edicao-com-postais-marcador-colecao-grandes-mestres-do-estoicismo",
+    "cover_image": "https://m.media-amazon.com/images/I/612B0id4gNL._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Medita%C3%A7%C3%B5es-Marco-Aur%C3%A9lio/dp/8552100916",
+    "customer_reviews_link": "https://www.amazon.com.br/Medita%C3%A7%C3%B5es-Marco-Aur%C3%A9lio/dp/8552100916#customerReviews",
     "subtitle": "Capa comum – Edição especial, 31 outubro 2019",
-    "releaseDate": "31 outubro 2019",
-    "rating": "4,8",
-    "totalCustomersReviews": "6.883",
-    "totalPages": "160 páginas",
-    "resume": "Estas são anotações pessoais do imperador romano Marco Aurélio escritas entre os anos de 170 a 180.Também conhecidas como Meditações a mim mesmo, reúnem aforismos que orientaram o governante pela perspectiva do estoicismo – o controle das emoções para que se evitem os erros de julgamento.Suas meditações formam um manual de comportamento ainda atual sobre como podemos melhorar nosso comportamento e o relacionamento com o próximo.Marco Aurélio trava um diálogo interior em busca de verdades fundamentais por meio da razão sem deixar de lado a sensibilidade.Sem inclinação a qualquer crença religiosa, Meditações apela para ordens universais nas quais até mesmo os acontecimentos ruins ocorrem para o bem de todos.O imperador assume o papel do filósofo que instrui o aluno e dá conselhos ao amigo.Por seu caráter íntimo, Meditações tornou-se um dos escritos mais reveladores e inspiradores a respeito do pensamento de um grande líder.Apresenta ensinamentos sobre as virtudes, a felicidade, a morte, as paixões e a harmonia com a natureza e a aceitação de suas leis.Figura ainda entre as obras fundamentais para os estudiosos da filosofia estoica, mesmo milênios depois de sua composição."
+    "release_date": "31 outubro 2019",
+    "rating": {
+      "score": "4,8",
+      "total_customer_reviews": "6.895"
+    },
+    "total_pages": "160 páginas",
+    "author": {
+      "id": "a9e7c7e9-4ed1-46b5-9359-c905505a641b",
+      "name": "Marco AurélioEdson Bini",
+      "slug": "marco-aurelioedson-bini"
+    },
+    "publisher": {
+      "id": "a30954d6-5d60-4dd5-ae48-592be7e5a325",
+      "name": "Edipro",
+      "slug": "edipro"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:20.522Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:20",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Sobre-brevidade-vida-Bil%C3%ADngue-marcador/dp/6556600164",
-    "customerReviewsLink": "https://www.amazon.com.br/Sobre-brevidade-vida-Bil%C3%ADngue-marcador/dp/6556600164#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/81TNzkUcNzL._SY342_.jpg",
+    "id": "56fd7217-01c0-4c56-a9b2-3e998c92f1c4",
     "title": "Sobre a brevidade da vida: Edição Bilíngue com postal + marcador (Coleção Grandes Mestres do Estoicismo)",
+    "slug": "sobre-a-brevidade-da-vida-edicao-bilingue-com-postal-marcador-colecao-grandes-mestres-do-estoicismo",
+    "cover_image": "https://m.media-amazon.com/images/I/81TNzkUcNzL._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Sobre-brevidade-vida-Bil%C3%ADngue-marcador/dp/6556600164",
+    "customer_reviews_link": "https://www.amazon.com.br/Sobre-brevidade-vida-Bil%C3%ADngue-marcador/dp/6556600164#customerReviews",
     "subtitle": "Capa comum – Edição especial, 30 novembro 2020",
-    "releaseDate": "30 novembro 2020",
-    "rating": "4,8",
-    "totalCustomersReviews": "2.106",
-    "totalPages": "96 páginas",
-    "resume": "Sobre a brevidade da vida apresenta o pensamento de Sêneca, um dos principais nomes da filosofia estoica na história.Neste breve ensaio, o filósofo romano nos leva a refletir sobre uma questão fundamental para a humanidade: como usar o tempo em favor de uma vida plena e feliz. Tema universal e relevante até os dias de hoje.Esta é uma edição bilíngue, com nova tradução direta do latim, feita pelo professor Artur Costrino, mestre em Estudos Clássicos e ph.D. em Estudos Medievais.Além do texto original, a tradução traz notas explicativas para facilitar a compreensão da obra.Com estes escritos, Lúcio Aneu Sêneca se posiciona como um dos grandes expoentes da corrente filosófica estoica, ao lado do imperador Marco Aurélio.Uma obra fundamental para entendermos melhor esse importante movimento filosófico do Ocidente."
+    "release_date": "30 novembro 2020",
+    "rating": {
+      "score": "4,8",
+      "total_customer_reviews": "2.109"
+    },
+    "total_pages": "96 páginas",
+    "author": {
+      "id": "faaca032-cdc2-4ea1-a996-69a3715729c1",
+      "name": "SênecaArtur Costrino",
+      "slug": "senecaartur-costrino"
+    },
+    "publisher": {
+      "id": "8bdf30e0-6297-49e7-8a3b-435ef7bce42d",
+      "name": "Edipro",
+      "slug": "edipro"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:24.090Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:24",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Manual-Epicteto-melhor-Bil%C3%ADngue-marcador/dp/6556600334",
-    "customerReviewsLink": "https://www.amazon.com.br/Manual-Epicteto-melhor-Bil%C3%ADngue-marcador/dp/6556600334#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/61zkj3SiV4L._SY342_.jpg",
+    "id": "b047805b-1109-4b7c-8361-84161f85901c",
     "title": "Manual de Epicteto: Edição Bilíngue com postal + marcador ( Coleção Grandes Mestres do Estoicismo)",
+    "slug": "manual-de-epicteto-edicao-bilingue-com-postal-marcador-colecao-grandes-mestres-do-estoicismo",
+    "cover_image": "https://m.media-amazon.com/images/I/61zkj3SiV4L._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Manual-Epicteto-melhor-Bil%C3%ADngue-marcador/dp/6556600334",
+    "customer_reviews_link": "https://www.amazon.com.br/Manual-Epicteto-melhor-Bil%C3%ADngue-marcador/dp/6556600334#customerReviews",
     "subtitle": "Capa comum – 20 fevereiro 2021",
-    "releaseDate": "20 fevereiro 2021",
-    "rating": "4,8",
-    "totalCustomersReviews": "1.668",
-    "totalPages": "96 páginas",
-    "resume": "Epicteto, um dos principais representantes do estoicismo, deixou em seu legado ensinamentos éticos com preceitos práticos para questões atemporais sobre a arte de viver melhor.Este sucinto e primoroso Manual filosófico, compilado por seu discípulo Flávio Arriano e apresentado aqui em versão bilíngue (grego-português), reúne 53 aforismos de teor ético que expressam a preocupação fundamental de Epicteto: a conduta e o comportamento do ser humano em sociedade, e seu reflexo na manifestação da tão sonhada felicidade.Seus ensinamentos reúnem lições singelas e objetivas sobre como conduzirmos nosso aprimoramento moral pessoal – através da prática de virtudes como a tolerância, a benevolência, a discrição, a simplicidade, a justiça, a moderação e a coragem, em comunhão harmoniosa com a natureza e em aceitação tranquila de tudo o que ocorre e que nos atinge – e convivermos pacificamente com nossos semelhantes, ainda que os relacionamentos sejam desafiadores.Com ampla repercussão nos círculos intelectuais do Império Romano, este Manual exerceu marcante influência no pensamento e na conduta do imperador estoico Marco Aurélio."
+    "release_date": "20 fevereiro 2021",
+    "rating": {
+      "score": "4,8",
+      "total_customer_reviews": "1.670"
+    },
+    "total_pages": "96 páginas",
+    "author": {
+      "id": "cad464d2-c54e-4726-a7cb-a6cbf7a84d0d",
+      "name": "EpictetoEdson Bini",
+      "slug": "epictetoedson-bini"
+    },
+    "publisher": {
+      "id": "9faaf04f-9597-4a7c-a778-c7ec4246bc71",
+      "name": "Edipro",
+      "slug": "edipro"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:27.516Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:27",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas-ebook/dp/B07YLX1NHY",
-    "customerReviewsLink": "https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas-ebook/dp/B07YLX1NHY#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/71D+-LFMkhL._SY342_.jpg",
+    "id": "af1149f0-e74e-4644-9afe-9b5a10fc490b",
     "title": "Como fazer amigos e influenciar pessoas",
+    "slug": "como-fazer-amigos-e-influenciar-pessoas",
+    "cover_image": "https://m.media-amazon.com/images/I/71D+-LFMkhL._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas-ebook/dp/B07YLX1NHY",
+    "customer_reviews_link": "https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas-ebook/dp/B07YLX1NHY#customerReviews",
     "subtitle": "eBook Kindle",
-    "releaseDate": "1 outubro 2019",
-    "rating": "4,8",
-    "totalCustomersReviews": "14.499",
-    "totalPages": "305 páginas",
-    "resume": "Edição atualizada para uma nova geração de líderes.“O livro de desenvolvimento pessoal mais bem-sucedido de todos os tempos. Carnegie nunca foi tão relevante.” – The Times\"Os princípios deste livro só funcionam quando são de coração. Não estou defendendo um conjunto de truques. Estou falando sobre um novo estilo de vida.\" – Dale CarnegieEsta nova edição traz mudanças que atualizam a obra de Dale Carnegie, enquanto preserva a autenticidade do texto original.Partindo do princípio de que é preciso se interessar genuinamente pelos outros, Carnegie ajudou milhões de pessoas a se sentirem mais seguras, abertas e confiantes em seus encontros sociais e profissionais.Conheça algumas das habilidades que você vai aprender com este livro:• comunicar-me com mais diplomacia• aumentar sua capacidade de realizar tarefas• fazer com que as pessoas gostem de você• melhorar sua capacidade de persuasão• tornar-se uma liderança mais eficaz• sair-se bem em qualquer situação social"
+    "release_date": "1 outubro 2019",
+    "rating": {
+      "score": "4,8",
+      "total_customer_reviews": "14.554"
+    },
+    "total_pages": "305 páginas",
+    "author": {
+      "id": "3d79de97-4ebd-4952-9908-624a11815d6b",
+      "name": "Dale CarnegieLivia de AlmeidaBeatriz Medina",
+      "slug": "dale-carnegielivia-de-almeidabeatriz-medina"
+    },
+    "publisher": {
+      "id": "41a45653-c5ca-4c53-b42b-e84f443ec78f",
+      "name": "Editora Sextante",
+      "slug": "editora-sextante"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:31.058Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:31",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Watchmen-2019-English-Alan-Moore-ebook/dp/B07ST6DPBQ",
-    "customerReviewsLink": "https://www.amazon.com.br/Watchmen-2019-English-Alan-Moore-ebook/dp/B07ST6DPBQ#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/71fMZpUiHaL._SY342_.jpg",
+    "id": "95a488d1-76a2-40b9-959c-d750bad210e2",
     "title": "Watchmen (2019 Edition) (English Edition)",
+    "slug": "watchmen-2019-edition-english-edition",
+    "cover_image": "https://m.media-amazon.com/images/I/71fMZpUiHaL._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Watchmen-2019-English-Alan-Moore-ebook/dp/B07ST6DPBQ",
+    "customer_reviews_link": "https://www.amazon.com.br/Watchmen-2019-English-Alan-Moore-ebook/dp/B07ST6DPBQ#customerReviews",
     "subtitle": "Kindle e comiXology",
-    "releaseDate": "18 junho 2019",
-    "rating": "4,8",
-    "totalCustomersReviews": "8.924",
-    "totalPages": "449 páginas",
-    "resume": "Soon to be an HBO original series, Watchmen, the groundbreaking series from award-winning author Alan Moore, presents a world where the mere presence of American superheroes changed history--the U.S. won the Vietnam War, Nixon is still president, and the Cold War is in full effect.Considered the greatest graphic novel in the history of the medium, the Hugo Award-winning story chronicles the fall from grace of a group of superheroes plagued by all-too-human failings. Along the way, the concept of the superhero is dissected as an unknown assassin stalks the erstwhile heroes.This edition of Watchmen, the groundbreaking series from Alan Moore, the award-winning writer of V For Vendetta and Batman: The Killing Joke, and features art from industry legend Dave Gibbons, with high-quality, recolored pages found in Watchmen: Abslolute Edtion."
+    "release_date": "18 junho 2019",
+    "rating": {
+      "score": "4,8",
+      "total_customer_reviews": "8.927"
+    },
+    "total_pages": "449 páginas",
+    "author": {
+      "id": "94e46c53-e5b5-4289-b32f-9735254723d8",
+      "name": "Alan MooreDave Gibbons",
+      "slug": "alan-mooredave-gibbons"
+    },
+    "publisher": {
+      "id": "353b9709-8856-43ee-9371-35598ea46950",
+      "name": "DC",
+      "slug": "dc"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:34.337Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:34",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Ogiva-Graphic-Novel-Bruno-Zago/dp/6586672112",
-    "customerReviewsLink": "https://www.amazon.com.br/Ogiva-Graphic-Novel-Bruno-Zago/dp/6586672112#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/81CLPVUK8jL._SY342_.jpg",
+    "id": "fda10a5a-3fa9-4784-9b19-322d2dd8e1bf",
     "title": "Ogiva – Graphic Novel Volume Único",
+    "slug": "ogiva-graphic-novel-volume-unico",
+    "cover_image": "https://m.media-amazon.com/images/I/81CLPVUK8jL._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Ogiva-Graphic-Novel-Bruno-Zago/dp/6586672112",
+    "customer_reviews_link": "https://www.amazon.com.br/Ogiva-Graphic-Novel-Bruno-Zago/dp/6586672112#customerReviews",
     "subtitle": "Capa dura – 7 dezembro 2020",
-    "releaseDate": "7 dezembro 2020",
-    "rating": "4,6",
-    "totalCustomersReviews": "1.249",
-    "totalPages": "",
-    "resume": "O mundo não é mais nosso! Monstros que se alimentam de humanos chegaram misteriosamente e dominaram tudo. Uma década depois da invasão, as poucas pessoas que restaram lutam para sobreviver em uma terra devastada. Entre elas está Pilar, uma mulher que assumiu a responsabilidade de cuidar de Sara, uma garota órfã, e acompanhá-la em uma longa e perigosa jornada até seu único familiar vivo. Este é o primeiro quadrinho escrito por um dos três integrantes do canal e editora Pipoca & Nanquim! Ogiva marca a estreia de Bruno Zago como roteirista de quadrinhos, ao lado de Guilherme Petreca na arte, com seu traço único. Juntos, eles conceberam um rico cenário pós‑apocalíptico para ambientar uma grandiosa história de ação, com mais de 200 páginas! O resultado é uma aventura que pode ser definida como uma mistura inusitada de Mad Max com Procurando Nemo, com influências de Fallout, The Last of Us e A Estrada. A edição tem formato grande, 220 páginas em preto e branco, impressas em papel couché fosco de alta gramatura, com capa dura com verniz localizado e lombada redonda."
+    "release_date": "7 dezembro 2020",
+    "rating": {
+      "score": "4,6",
+      "total_customer_reviews": "1.250"
+    },
+    "total_pages": "",
+    "author": {
+      "id": "c41f2006-3b93-48f2-bc7f-6304db898b04",
+      "name": "Bruno ZagoDaniel LopesGuilherme Petreca",
+      "slug": "bruno-zagodaniel-lopesguilherme-petreca"
+    },
+    "publisher": {
+      "id": "d4927d36-539e-4fc7-9305-2bb932ca82a9",
+      "name": "Pipoca e Nanquim",
+      "slug": "pipoca-e-nanquim"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:37.709Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:37",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Mundo-Sofia-Romance-Hist%C3%B3ria-Filosofia-ebook/dp/B00AC0ZIFA",
-    "customerReviewsLink": "https://www.amazon.com.br/Mundo-Sofia-Romance-Hist%C3%B3ria-Filosofia-ebook/dp/B00AC0ZIFA#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/913cJb7SJiL._SY342_.jpg",
+    "id": "bb462f49-3b2c-4fbf-9c28-c9dcfecbdb51",
     "title": "O Mundo de Sofia - Romance da História da Filosofia",
+    "slug": "o-mundo-de-sofia-romance-da-historia-da-filosofia",
+    "cover_image": "https://m.media-amazon.com/images/I/913cJb7SJiL._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Mundo-Sofia-Romance-Hist%C3%B3ria-Filosofia-ebook/dp/B00AC0ZIFA",
+    "customer_reviews_link": "https://www.amazon.com.br/Mundo-Sofia-Romance-Hist%C3%B3ria-Filosofia-ebook/dp/B00AC0ZIFA#customerReviews",
     "subtitle": "eBook Kindle",
-    "releaseDate": "19 novembro 2012",
-    "rating": "4,8",
-    "totalCustomersReviews": "8.020",
-    "totalPages": "678 páginas",
-    "resume": "Publicado originalmente em 1995, O mundo de Sofia é o maior best-seller da Companhia das Letras, com mais de 1 milhão de exemplares vendidos só no Brasil. Edição comemorativa com tradução direta do norueguês.Às vésperas de seu aniversário de quinze anos, Sofia Amundsen começa a receber bilhetes e cartões-postais bastante estranhos. Os bilhetes são anônimos e perguntam a Sofia quem é ela e de onde vem o mundo. Os postais são enviados do Líbano, por um major desconhecido, para uma certa Hilde Møller Knag, garota a quem Sofia também não conhece.O mistério dos bilhetes e dos postais é o ponto de partida deste romance fascinante, que vem conquistando milhões de leitores em todos os países e já vendeu mais de 1 milhão de exemplares só no Brasil. De capítulo em capítulo, de \"lição\" em \"lição\", o leitor é convidado a percorrer toda a história da filosofia ocidental, ao mesmo tempo que se vê envolvido por um thriller que toma um rumo surpreendente."
+    "release_date": "19 novembro 2012",
+    "rating": {
+      "score": "4,8",
+      "total_customer_reviews": "8.030"
+    },
+    "total_pages": "678 páginas",
+    "author": {
+      "id": "ea039504-7dd9-4188-8c09-9052101c9814",
+      "name": "Jostein GaarderLeonardo Pinto Silva",
+      "slug": "jostein-gaarderleonardo-pinto-silva"
+    },
+    "publisher": {
+      "id": "4f83ba48-e0bc-4217-9379-d008ac036fce",
+      "name": "Companhia das Letras",
+      "slug": "companhia-das-letras"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:41.181Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:41",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Hobbit-J-R-R-Tolkien-ebook/dp/B07S5FDTVK",
-    "customerReviewsLink": "https://www.amazon.com.br/Hobbit-J-R-R-Tolkien-ebook/dp/B07S5FDTVK#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/91zdxRRvabL._SY342_.jpg",
+    "id": "61c1d604-2c3a-40db-84e9-1e0bb69bab3c",
     "title": "O Hobbit",
+    "slug": "o-hobbit",
+    "cover_image": "https://m.media-amazon.com/images/I/91zdxRRvabL._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Hobbit-J-R-R-Tolkien-ebook/dp/B07S5FDTVK",
+    "customer_reviews_link": "https://www.amazon.com.br/Hobbit-J-R-R-Tolkien-ebook/dp/B07S5FDTVK#customerReviews",
     "subtitle": "eBook Kindle",
-    "releaseDate": "15 julho 2019",
-    "rating": "4,9",
-    "totalCustomersReviews": "28.960",
-    "totalPages": "385 páginas",
-    "resume": "Edição com mapas, capa dura, fitilho, as ilustrações originais de J.R.R. Tolkien e um pôster de Valfenda exclusivo!Bilbo Bolseiro era um dos mais respeitáveis hobbits de todo o Condado até que, um dia, o mago Gandalf bate à sua porta. A partir de então, toda sua vida pacata e campestre soprando anéis de fumaça com seu belo cachimbo começa a mudar. Ele é convocado a participar de uma aventura por ninguém menos do que Thorin Escudo-de-Carvalho, um príncipe do poderoso povo dos Anãos.Esta jornada fará Bilbo, Gandalf e 13 anãos atravessarem a Terra-média, passando por inúmeros perigos, como os imensos trols, as Montanhas Nevoentas infestadas de gobelins ou a muito antiga e misteriosa Trevamata, até chegarem (se conseguirem) na Montanha Solitária. Lá está um incalculável tesouro, mas há um porém. Deitado em cima dele está Smaug, o Dourado, um dragão malicioso que... bem, você terá que ler para descobrir.Lançado em 1937, O Hobbit é um divisor de águas na literatura de fantasia mundial. Mais de 80 anos após a sua publicação, o livro que antecede os ocorridos em O Senhor dos Anéis continua arrebatando fãs de todas as idades, talvez pelo seu tom brincalhão com uma pitada de magia élfica, ou talvez porque J.R.R. Tolkien tenha escrito o melhor livro infantojuvenil de todos os tempos."
+    "release_date": "15 julho 2019",
+    "rating": {
+      "score": "4,9",
+      "total_customer_reviews": "29.006"
+    },
+    "total_pages": "385 páginas",
+    "author": {
+      "id": "d361fd61-13ad-4e1d-9dad-d631078bedfb",
+      "name": "J.R.R. TolkienReinaldo José Lopes",
+      "slug": "jrr-tolkienreinaldo-jose-lopes"
+    },
+    "publisher": {
+      "id": "fbf12464-dbdc-4b50-b1a2-f7c9f7efdac2",
+      "name": "HarperCollins Brasil",
+      "slug": "harpercollins-brasil"
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:44.354Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:44",
+    "updated_at_pt_br": null
   },
   {
-    "linkAmazon": "https://www.amazon.com.br/Alice-no-Pa%C3%ADs-das-Maravilhas-ebook/dp/B07RL3K8ZM",
-    "customerReviewsLink": "https://www.amazon.com.br/Alice-no-Pa%C3%ADs-das-Maravilhas-ebook/dp/B07RL3K8ZM#customerReviews",
-    "image": "https://m.media-amazon.com/images/I/917N8C9iR3L._SY342_.jpg",
+    "id": "d7b5f09c-0853-40b5-9707-df117884cacd",
     "title": "Alice no País das Maravilhas",
+    "slug": "alice-no-pais-das-maravilhas",
+    "cover_image": "https://m.media-amazon.com/images/I/917N8C9iR3L._SY342_.jpg",
+    "link_amazon": "https://www.amazon.com.br/Alice-no-Pa%C3%ADs-das-Maravilhas-ebook/dp/B07RL3K8ZM",
+    "customer_reviews_link": "https://www.amazon.com.br/Alice-no-Pa%C3%ADs-das-Maravilhas-ebook/dp/B07RL3K8ZM#customerReviews",
     "subtitle": "eBook Kindle",
-    "releaseDate": "6 maio 2019",
-    "rating": "4,6",
-    "totalCustomersReviews": "1.234",
-    "totalPages": "181 páginas",
-    "resume": "\"Você poderia me dizer, por favor, qual caminho eu devo seguir a partir daqui?\" Que esta pergunta seja feita por uma garotinha perdida de casa (após ter seguido um coelho falante até sua toca) a uma espécie de gato fantasmagórico flutuante já não causa nenhuma estranheza quando chegamos na tal parte da história, pois como nos alertou a própria menina: \"há tanta coisa estranha acontecendo aqui que eu já não me surpreendo com mais nada\".Com este conto surreal e fantástico, muitas vezes sem sentido algum, noutras vezes carregado de sentido oculto e profundo, Lewis Carroll revolucionou para sempre a literatura infantil, praticamente a refundando (não surpreende que encontremos algo do seu estilo em Antoine de Saint-Exupéry e Monteiro Lobato). É aqui que conheceremos célebres personagens como o Coelho Branco, o Chapeleiro Louco e o Gato de Cheshire. É aqui que veremos, quem sabe, a primeira descrição genuína dos sonhos infantis. É aqui que celebraremos toda a magia da boa literatura - esta que não morre nunca.Incontáveis peças de teatro, filmes e livros secundários foram criados por conta desta obra preciosa, mas nada substituí ler o original; ainda mais quando se trata da tradução de um de nossos maiores escritores, Monteiro Lobato, numa edição recheada com as clássicas ilustrações de John Tenniel e Arthur Rackham. Bem-vindo ao País das Maravilhas!O editor.***[número de páginas] Equivalente a aproximadamente 120 págs. de um livro impresso (tamanho A5).[sumário, com índice ativo]- Prefácio- 1. Descendo a Toca do Coelho- 2. A Lagoa de Lágrimas- 3. A Corrida da Convenção e uma Longa História- 4. O Coelho envia o Pequeno Bill- 5. Conselhos de uma Lagarta- 6. Porco e Pimenta- 7. Uma Louca Festa do Chá- 8. O Campo de Croquet da Rainha- 9. A História da Tartaruga Falsa- 10. A Quadrilha da Lagosta- 11. Quem Roubou as Tortas?- 12. O Depoimento de AliceObs.: Este livro digital foi ilustrado com mais de 50 desenhos de John Tenniel e Arthur Rackham ao longo dos capítulos, o que pode ser conferido na amostra gratuita. Quase todos os desenhos são coloridos; recomendamos que tentem ler num tablet!"
+    "release_date": "6 maio 2019",
+    "rating": {
+      "score": "4,6",
+      "total_customer_reviews": "1.240"
+    },
+    "total_pages": "181 páginas",
+    "author": {
+      "id": "0c592f29-64b7-4a84-9d47-600355193706",
+      "name": "Lewis CarrollRafael ArraisMonteiro Lobato",
+      "slug": "lewis-carrollrafael-arraismonteiro-lobato"
+    },
+    "publisher": {
+      "id": "03847af0-a6b1-41c6-8297-c9bfadd03fcf",
+      "name": "",
+      "slug": ""
+    },
+    "categories": [],
+    "sumary": "",
+    "created_at": "2024-01-02T13:46:47.987Z",
+    "updated_at": null,
+    "created_at_pt_br": "02/01/2024 10:46:47",
+    "updated_at_pt_br": null
   }
 ]
