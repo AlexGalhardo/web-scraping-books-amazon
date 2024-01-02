@@ -48,7 +48,9 @@ async function getBooksFromAmazon() {
       await page.goto(urlAmazon, { waitUntil:  'domcontentloaded' }); // 'domcontentloaded', networkidle2,
       await setTimeout(1000);
       const content = await page.content();
+      await setTimeout(1000);
       const $ = cheerio.load(content);
+      await setTimeout(1000);
 
       $('div#detailBullets_feature_div ul.detail-bullet-list li span.a-text-bold:contains("Ranking dos mais vendidos") + ul.zg_hrsr li span.a-list-item a').each(function () {
           categories.push({
@@ -60,6 +62,12 @@ async function getBooksFromAmazon() {
             }),
           });
       });
+
+      const elementAuthor = 
+          $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim() !== '' ? 
+            $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim() 
+            : 
+            $('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor, Editor)")').closest('span.author').find('a.a-link-normal').text().trim()
 
       function getAuthor(){
         if($('div#bylineInfo span.author:not([style="display: none;"]) span.a-color-secondary:contains("(Autor)")').closest('span.author').find('a.a-link-normal').text().trim()  !== '')
@@ -75,7 +83,7 @@ async function getBooksFromAmazon() {
       const author = {
         id: randomUUID(),
         name: getAuthor(),
-        slug: slugify(getAuthor(), {
+        slug: slugify(getAuthor() ?? elementAuthor, {
           lower: true,
           strict: true
         }),
@@ -114,7 +122,7 @@ async function getBooksFromAmazon() {
         subtitle: $('div.a-section.a-spacing-none h1.a-spacing-none.a-text-normal span#productSubtitle').text().trim(),
         release_date: $('div#rpi-attribute-book_details-publication_date div.rpi-attribute-value').text().trim(),
         rating: {
-          score: $('span#acrPopover.reviewCountTextLinkedHistogram.noUnderline').attr('title').replace(' de 5 estrelas', ''),
+          score: $('span#acrPopover.reviewCountTextLinkedHistogram.noUnderline').attr('title') ? $('span#acrPopover.reviewCountTextLinkedHistogram.noUnderline').attr('title').replace(' de 5 estrelas', '') : null,
           total_customer_reviews: $('a#acrCustomerReviewLink:first span#acrCustomerReviewText:first').text().replace('avaliações de clientes', '').trim(),
         },
         total_pages: getTotalPages(),
