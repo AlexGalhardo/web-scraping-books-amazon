@@ -89,7 +89,11 @@ const booksToFind = [
   'https://www.amazon.com.br/sol-%C3%A9-para-todos/dp/8503009498',
   'https://www.amazon.com.br/nome-do-vento-Patrick-Rothfuss/dp/8599296493',
   'https://www.amazon.com.br/temor-do-s%C3%A1bio-Patrick-Rothfuss/dp/8580410320',
-  'https://www.amazon.com.br/m%C3%BAsica-do-sil%C3%AAncio-Patrick-Rothfuss/dp/8580413532'
+  'https://www.amazon.com.br/m%C3%BAsica-do-sil%C3%AAncio-Patrick-Rothfuss/dp/8580413532',
+  'https://www.amazon.com.br/Maus-Art-Spiegelman/dp/8535906282',
+  'https://www.amazon.com.br/Alquimista-Paulo-Coelho-ebook/dp/B00AQI6C6M',
+  'https://www.amazon.com.br/Ponto-impacto-Dan-Brown-ebook/dp/B00A3D9K28',
+  'https://www.amazon.com.br/Fortaleza-digital-Dan-Brown-ebook/dp/B00Y14YVBK/'
 ];
 
 const books = [];
