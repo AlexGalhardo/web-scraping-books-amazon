@@ -1,12 +1,12 @@
 <div align="center">
- <h1 align="center">WebScrapping Books Amazon</h1>
+ <h1 align="center">Web Scraping Books Amazon</h1>
 </div>
 
 ## Introduction
 
-* A personal project I created to learn webscrapping. It's a simple crawler who get data information from books pages.
+* A personal project I created to learn web scraping. It's a simple script who get data information from HTML DOM Amazon.com books pages.
 
-## Development Setup Local
+## Setup
 
 * Clone this repository
 

@@ -204,7 +204,6 @@ async function getBooksFromAmazon() {
         total_pages: getTotalPages(),
         author,
         publisher,
-        // categories,
         summary: 
           $('div#drengr_desktopTabbedDescriptionOverviewContent_feature_div').text().trim() !== '' ? 
             $('div#drengr_desktopTabbedDescriptionOverviewContent_feature_div').text().trim() : 
