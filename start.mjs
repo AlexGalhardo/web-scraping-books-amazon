@@ -1,7 +1,6 @@
 import puppeteer from 'puppeteer'
 import * as cheerio from 'cheerio'
 import fs from 'fs'
-// import { setTimeout } from "node:timers/promises";
 import { randomUUID } from 'crypto';
 import slugify from 'slugify';
 
@@ -99,7 +98,6 @@ const booksToFind = [
 const books = [];
 const authors = [];
 const publishers = [];
-const categories = [];
 
 function getNow() {
     const date = new Date().toLocaleDateString('pt-BR');
@@ -116,13 +114,9 @@ async function getBooksFromAmazon() {
     const page = await browser.newPage();
 
     try {
-      // await setTimeout(3000);
       await page.goto(urlAmazon, { waitUntil:  'domcontentloaded' }); // 'domcontentloaded', networkidle2,
-      // await setTimeout(3000);
       const content = await page.content();
-      // await setTimeout(3000);
       const $ = cheerio.load(content);
-      // await setTimeout(3000);
 
       $('div#detailBullets_feature_div ul.detail-bullet-list li span.a-text-bold:contains("Ranking dos mais vendidos") + ul.zg_hrsr li span.a-list-item a').each(function () {
           categories.push({

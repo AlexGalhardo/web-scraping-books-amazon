@@ -1,4 +1,10 @@
 {
+  "name": "web-scrapping-books-amazon",
+  "version": "1.0.0",
+  "main": "start.mjs",
+  "scripts": {
+    "start": "node start.mjs"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "puppeteer": "^21.6.1",

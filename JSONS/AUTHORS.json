@@ -1,1 +1,31 @@
-[{"id":"4d7bf683-fe39-4fc4-954f-a72bd2e845ac","name":"Marco Aurélio","slug":"marco-aurelio"},{"id":"000ebe5e-973c-444a-9d36-12b762fc3d12","slug":""},{"id":"fbfef92b-c562-4e79-b69e-50950d27f4ba","name":"Hiroshi Hirata","slug":"hiroshi-hirata"},{"id":"6dde42cc-8255-4205-9f58-3aa5da12a0a1","name":"Usamaru FuruyaOsamu Dazai","slug":"usamaru-furuyaosamu-dazai"},{"id":"de19602c-72ad-4e1a-b78d-0c9e97756a46","name":"Júlio Verne","slug":"julio-verne"},{"id":"5f86fb71-5e69-47ce-bb62-7b0062aac3da","name":"Brandon Sanderson","slug":"brandon-sanderson"}]
+[
+  {
+    "id": "4d7bf683-fe39-4fc4-954f-a72bd2e845ac",
+    "name": "Marco Aurélio",
+    "slug": "marco-aurelio"
+  },
+  {
+    "id": "000ebe5e-973c-444a-9d36-12b762fc3d12",
+    "slug": ""
+  },
+  {
+    "id": "fbfef92b-c562-4e79-b69e-50950d27f4ba",
+    "name": "Hiroshi Hirata",
+    "slug": "hiroshi-hirata"
+  },
+  {
+    "id": "6dde42cc-8255-4205-9f58-3aa5da12a0a1",
+    "name": "Usamaru FuruyaOsamu Dazai",
+    "slug": "usamaru-furuyaosamu-dazai"
+  },
+  {
+    "id": "de19602c-72ad-4e1a-b78d-0c9e97756a46",
+    "name": "Júlio Verne",
+    "slug": "julio-verne"
+  },
+  {
+    "id": "5f86fb71-5e69-47ce-bb62-7b0062aac3da",
+    "name": "Brandon Sanderson",
+    "slug": "brandon-sanderson"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id":"56485e65-032a-4eee-85dd-1363a789aa42","name":"Edipro","slug":"edipro"},{"id":"714cadbf-0b3d-4f42-bbdf-198ade5b4cf1","name":"","slug":""},{"id":"82b74386-5587-458b-9132-ad31ea78641a","name":"Pipoca e Nanquim","slug":"pipoca-e-nanquim"},{"id":"b513574a-f267-4692-90bc-8433007e5866","name":"Vertical Comics","slug":"vertical-comics"},{"id":"90cada0a-bbf0-4f39-8248-7a9cdc7d84ff","name":"Principis","slug":"principis"},{"id":"20b11080-802e-4d8c-b0e0-83557db5ec2f","name":"Planeta Minotauro","slug":"planeta-minotauro"}]
+[
+  {
+    "id": "56485e65-032a-4eee-85dd-1363a789aa42",
+    "name": "Edipro",
+    "slug": "edipro"
+  },
+  {
+    "id": "714cadbf-0b3d-4f42-bbdf-198ade5b4cf1",
+    "name": "",
+    "slug": ""
+  },
+  {
+    "id": "82b74386-5587-458b-9132-ad31ea78641a",
+    "name": "Pipoca e Nanquim",
+    "slug": "pipoca-e-nanquim"
+  },
+  {
+    "id": "b513574a-f267-4692-90bc-8433007e5866",
+    "name": "Vertical Comics",
+    "slug": "vertical-comics"
+  },
+  {
+    "id": "90cada0a-bbf0-4f39-8248-7a9cdc7d84ff",
+    "name": "Principis",
+    "slug": "principis"
+  },
+  {
+    "id": "20b11080-802e-4d8c-b0e0-83557db5ec2f",
+    "name": "Planeta Minotauro",
+    "slug": "planeta-minotauro"
+  }
+]
