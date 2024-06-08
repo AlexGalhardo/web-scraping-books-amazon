@@ -1,7 +1,117 @@
 [
     {
-        "id": "c5b4cb7d-74ae-4139-9272-94d34c4b1e19",
+        "id": "d363fc05-e055-4fe8-a316-d5a56ed47ee5",
         "name": "Edipro",
         "slug": "edipro"
+    },
+    {
+        "id": "a252ccdd-5054-4816-88f2-fdb31ecf198c",
+        "name": "Editora Sextante",
+        "slug": "editora-sextante"
+    },
+    {
+        "id": "7c33db64-b84d-48e0-ae4a-d31d5b352f5b",
+        "name": "DC",
+        "slug": "dc"
+    },
+    {
+        "id": "48dd9266-0858-4e47-82ec-abc62023aa73",
+        "name": "Pipoca e Nanquim",
+        "slug": "pipoca-e-nanquim"
+    },
+    {
+        "id": "a608a692-1819-45fb-a1b5-5b20bfbdf444",
+        "name": "Companhia das Letras",
+        "slug": "companhia-das-letras"
+    },
+    {
+        "id": "63b71632-be71-410c-8e8d-2e244f3553f3",
+        "name": "HarperCollins Brasil",
+        "slug": "harpercollins-brasil"
+    },
+    {
+        "id": "1c4be8af-e5b3-41fe-9cd7-c6fb9e5a7dc2",
+        "name": "Pandorga Editora",
+        "slug": "pandorga-editora"
+    },
+    {
+        "id": "9526fdc5-1999-44bd-8185-1d1ca658ba26",
+        "name": "Pipoca & Nanquim",
+        "slug": "pipoca-and-nanquim"
+    },
+    {
+        "id": "6ae615b9-d2f4-4fe1-80c8-9d0bdc02f05c",
+        "name": "Editora Pipoca & Nanquim",
+        "slug": "editora-pipoca-and-nanquim"
+    },
+    {
+        "id": "0c115414-e637-48c3-a4b3-41c8a9b0a8b2",
+        "name": "",
+        "slug": ""
+    },
+    {
+        "id": "aed39e5a-12f2-4807-86c5-8ef793de1e81",
+        "name": "Teosófica",
+        "slug": "teosofica"
+    },
+    {
+        "id": "d4d48e7d-4cd6-4b7e-8cea-0950871ad233",
+        "name": "Record",
+        "slug": "record"
+    },
+    {
+        "id": "6e64cc15-6f44-404d-8bd2-1e278e3fe5ea",
+        "name": "Zahar",
+        "slug": "zahar"
+    },
+    {
+        "id": "17f1926c-4d82-4081-a863-57bfb199b1db",
+        "name": "Editora Vozes",
+        "slug": "editora-vozes"
+    },
+    {
+        "id": "223a9bf8-33bd-43b3-a47d-d91a8e7beda3",
+        "name": "Gente Autoridade",
+        "slug": "gente-autoridade"
+    },
+    {
+        "id": "54da80c5-da1e-4504-9d8f-73d237ef3d2e",
+        "name": "Editora Aleph",
+        "slug": "editora-aleph"
+    },
+    {
+        "id": "ccb08708-07da-4620-8726-ae6365043850",
+        "name": "Planeta Minotauro",
+        "slug": "planeta-minotauro"
+    },
+    {
+        "id": "cecc5d68-807b-4dc8-9833-58e9f33c58f6",
+        "name": "Vertical Comics",
+        "slug": "vertical-comics"
+    },
+    {
+        "id": "628bfe79-a396-40f8-b1ed-12b13a05c1b4",
+        "name": "Montecristo Editora",
+        "slug": "montecristo-editora"
+    },
+    {
+        "id": "9f803064-2705-4445-b622-52cfbdf8661e",
+        "name": "Penguin-Companhia",
+        "slug": "penguin-companhia"
+    },
+    {
+        "id": "89304f3e-18e6-4aba-bd19-f80aba882212",
+        "name": "Vertigo",
+        "slug": "vertigo"
+    },
+    {
+        "id": "d250616c-cdc9-4b8b-b067-ed7b321e4c48",
+        "name": "Principis",
+        "slug": "principis"
+    },
+    {
+        "id": "123efeb7-c5ac-4d7e-9e77-a402545403ef",
+        "name": "Editora Arqueiro",
+        "slug": "editora-arqueiro"
     }
 ]

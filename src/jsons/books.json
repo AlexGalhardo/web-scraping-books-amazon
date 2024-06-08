@@ -1,6 +1,6 @@
 [
     {
-        "id": "06fe5fca-b8c2-4be8-a0e3-ff121515b54f",
+        "id": "4356bd6e-6631-48cd-a961-1cf173eed818",
         "title": "Meditações de Marco Aurélio: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
         "slug": "meditacoes-de-marco-aurelio-edicao-com-postais-marcador-colecao-grandes-mestres-do-estoicismo",
         "cover_image": "https://m.media-amazon.com/images/I/41bQU67zLnL._SY445_SX342_.jpg",
@@ -14,21 +14,21 @@
         },
         "total_pages": "160 páginas",
         "author": {
-            "id": "28aedd88-d649-4ca0-8803-7cda3221398f",
+            "id": "0782a482-b5b0-4f58-99d8-47b166216d6a",
             "name": "Marco AurélioEDIPRO",
             "slug": "marco-aurelioedipro"
         },
         "publisher": {
-            "id": "c5b4cb7d-74ae-4139-9272-94d34c4b1e19",
+            "id": "d363fc05-e055-4fe8-a316-d5a56ed47ee5",
             "name": "Edipro",
             "slug": "edipro"
         },
         "summary": "",
-        "created_at": "2024-06-08T14:13:29.959Z",
+        "created_at": "2024-06-08T14:18:41.272Z",
         "updated_at": ""
     },
     {
-        "id": "001f72de-f794-46f8-9352-e3d97645b43d",
+        "id": "9e54c04a-b9e2-4257-a493-7a022541971c",
         "title": "Sobre a brevidade da vida: Edição Bilíngue com postal + marcador (Coleção Grandes Mestres do Estoicismo)",
         "slug": "sobre-a-brevidade-da-vida-edicao-bilingue-com-postal-marcador-colecao-grandes-mestres-do-estoicismo",
         "cover_image": "https://m.media-amazon.com/images/I/41vcWMfhzJL._SY445_SX342_.jpg",
@@ -42,17 +42,2425 @@
         },
         "total_pages": "96 páginas",
         "author": {
-            "id": "1e003d42-ac6a-409a-9e85-8cad9c87d4b6",
+            "id": "192470aa-2143-476a-82f4-31ef7445d75c",
             "name": "Sêneca",
             "slug": "seneca"
         },
         "publisher": {
-            "id": "6fdaf146-91de-4aa6-9958-978cedab40cf",
+            "id": "02f0c9d5-d02f-4098-aaae-cf64af33f527",
             "name": "Edipro",
             "slug": "edipro"
         },
         "summary": "",
-        "created_at": "2024-06-08T14:13:32.660Z",
+        "created_at": "2024-06-08T14:18:43.683Z",
+        "updated_at": ""
+    },
+    {
+        "id": "3e416081-5672-4ecc-98ed-46ea5edaec5b",
+        "title": "Manual de Epicteto: A arte de viver: Edição Bilíngue com postal + marcador ( Coleção Grandes Mestres do Estoicismo)",
+        "slug": "manual-de-epicteto-a-arte-de-viver-edicao-bilingue-com-postal-marcador-colecao-grandes-mestres-do-estoicismo",
+        "cover_image": "https://m.media-amazon.com/images/I/41mn5iCCQsL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Manual-Epicteto-melhor-Bil%C3%ADngue-marcador/dp/6556600334",
+        "customer_reviews_link": "https://www.amazon.com.br/Manual-Epicteto-melhor-Bil%C3%ADngue-marcador/dp/6556600334#customerReviews",
+        "subtitle": "Capa comum – 20 fevereiro 2021",
+        "release_date": "20 fevereiro 2021",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "1.857"
+        },
+        "total_pages": "96 páginas",
+        "author": {
+            "id": "17f4f93a-cd2a-49ae-8586-19d052d0e6a1",
+            "name": "Epicteto",
+            "slug": "epicteto"
+        },
+        "publisher": {
+            "id": "9db8245b-545b-44d8-9f85-7dafe6c0e84d",
+            "name": "Edipro",
+            "slug": "edipro"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:18:46.159Z",
+        "updated_at": ""
+    },
+    {
+        "id": "47d95e4f-6290-405d-8c10-ce26e1604703",
+        "title": "Como fazer amigos e influenciar pessoas",
+        "slug": "como-fazer-amigos-e-influenciar-pessoas",
+        "cover_image": "https://m.media-amazon.com/images/I/41qQ0f8bn5L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas-ebook/dp/B07YLX1NHY",
+        "customer_reviews_link": "https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas-ebook/dp/B07YLX1NHY#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "1 outubro 2019",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "16.512"
+        },
+        "total_pages": "311 páginas",
+        "author": {
+            "id": "a551afa0-bd95-4e70-abd0-b13f42578eb4",
+            "name": "Dale Carnegie",
+            "slug": "dale-carnegie"
+        },
+        "publisher": {
+            "id": "a252ccdd-5054-4816-88f2-fdb31ecf198c",
+            "name": "Editora Sextante",
+            "slug": "editora-sextante"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:18:48.746Z",
+        "updated_at": ""
+    },
+    {
+        "id": "ba0dc3e5-663f-4fea-8ab1-7ee49311f915",
+        "title": "Watchmen (2019 Edition) (English Edition)",
+        "slug": "watchmen-2019-edition-english-edition",
+        "cover_image": "https://m.media-amazon.com/images/I/41DnEm4qz+L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Watchmen-2019-English-Alan-Moore-ebook/dp/B07ST6DPBQ",
+        "customer_reviews_link": "https://www.amazon.com.br/Watchmen-2019-English-Alan-Moore-ebook/dp/B07ST6DPBQ#customerReviews",
+        "subtitle": "Kindle e comiXology",
+        "release_date": "18 junho 2019",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "9.085"
+        },
+        "total_pages": "449 páginas",
+        "author": {
+            "id": "b13af587-c214-459c-a3fb-1c71d93308de",
+            "name": "Alan Moore",
+            "slug": "alan-moore"
+        },
+        "publisher": {
+            "id": "7c33db64-b84d-48e0-ae4a-d31d5b352f5b",
+            "name": "DC",
+            "slug": "dc"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:18:51.509Z",
+        "updated_at": ""
+    },
+    {
+        "id": "c1a4a787-fb8f-4f07-a649-f206abe348da",
+        "title": "Ogiva – Graphic Novel Volume Único",
+        "slug": "ogiva-graphic-novel-volume-unico",
+        "cover_image": "https://m.media-amazon.com/images/I/41tekuV8flL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Ogiva-Graphic-Novel-Bruno-Zago/dp/6586672112",
+        "customer_reviews_link": "https://www.amazon.com.br/Ogiva-Graphic-Novel-Bruno-Zago/dp/6586672112#customerReviews",
+        "subtitle": "Capa dura – 7 dezembro 2020",
+        "release_date": "7 dezembro 2020",
+        "rating": {
+            "score": "4,6",
+            "total_customer_reviews": "1.286"
+        },
+        "total_pages": "220 páginas",
+        "author": {
+            "id": "0ce36b93-854c-41c2-aac1-af4992da286b",
+            "name": "Bruno Zago",
+            "slug": "bruno-zago"
+        },
+        "publisher": {
+            "id": "48dd9266-0858-4e47-82ec-abc62023aa73",
+            "name": "Pipoca e Nanquim",
+            "slug": "pipoca-e-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:18:53.618Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1db600f8-91a7-497b-899d-b204cadc22f4",
+        "title": "O Mundo de Sofia - Romance da História da Filosofia",
+        "slug": "o-mundo-de-sofia-romance-da-historia-da-filosofia",
+        "cover_image": "https://m.media-amazon.com/images/I/51cfuIfcRWL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Mundo-Sofia-Romance-Hist%C3%B3ria-Filosofia-ebook/dp/B00AC0ZIFA",
+        "customer_reviews_link": "https://www.amazon.com.br/Mundo-Sofia-Romance-Hist%C3%B3ria-Filosofia-ebook/dp/B00AC0ZIFA#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "19 novembro 2012",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "8.528"
+        },
+        "total_pages": "678 páginas",
+        "author": {
+            "id": "19b32da1-4b7f-44b5-bd39-64376c977a67",
+            "name": "Jostein Gaarder",
+            "slug": "jostein-gaarder"
+        },
+        "publisher": {
+            "id": "a608a692-1819-45fb-a1b5-5b20bfbdf444",
+            "name": "Companhia das Letras",
+            "slug": "companhia-das-letras"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:18:56.417Z",
+        "updated_at": ""
+    },
+    {
+        "id": "b2821148-74a8-4f7a-9fd8-87190f296322",
+        "title": "O Hobbit",
+        "slug": "o-hobbit",
+        "cover_image": "https://m.media-amazon.com/images/I/51S6-VeaHJL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Hobbit-J-R-R-Tolkien-ebook/dp/B07S5FDTVK",
+        "customer_reviews_link": "https://www.amazon.com.br/Hobbit-J-R-R-Tolkien-ebook/dp/B07S5FDTVK#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "15 julho 2019",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "30.693"
+        },
+        "total_pages": "388 páginas",
+        "author": {
+            "id": "f2befa3c-fcb5-419d-9153-92b7c0223174",
+            "name": "J.R.R. Tolkien",
+            "slug": "jrr-tolkien"
+        },
+        "publisher": {
+            "id": "63b71632-be71-410c-8e8d-2e244f3553f3",
+            "name": "HarperCollins Brasil",
+            "slug": "harpercollins-brasil"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:18:59.030Z",
+        "updated_at": ""
+    },
+    {
+        "id": "c1ea1a90-ae19-411d-ad30-e4375bbb8ed8",
+        "title": "Alice – Alice no País das Maravilhas e Alice através do espelho Lewis Carroll",
+        "slug": "alice-alice-no-pais-das-maravilhas-e-alice-atraves-do-espelho-lewis-carroll",
+        "cover_image": "https://m.media-amazon.com/images/I/518Lr+Dw26L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Alice-Maravilhas-atrav%C3%A9s-espelho-Carroll-ebook/dp/B09H29YNYR",
+        "customer_reviews_link": "https://www.amazon.com.br/Alice-Maravilhas-atrav%C3%A9s-espelho-Carroll-ebook/dp/B09H29YNYR#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "24 setembro 2021",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "904"
+        },
+        "total_pages": "296 páginas",
+        "author": {
+            "id": "e5d5ce51-73f8-4429-a20b-7199a65500ac",
+            "name": "Lewis Carroll",
+            "slug": "lewis-carroll"
+        },
+        "publisher": {
+            "id": "1c4be8af-e5b3-41fe-9cd7-c6fb9e5a7dc2",
+            "name": "Pandorga Editora",
+            "slug": "pandorga-editora"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:01.256Z",
+        "updated_at": ""
+    },
+    {
+        "id": "ff18fb2a-a272-44d7-bb65-2a5819ebf3b9",
+        "title": "Conan, O Bárbaro - Livro 1",
+        "slug": "conan-o-barbaro-livro-1",
+        "cover_image": "https://m.media-amazon.com/images/I/51ecepTTRwL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B077TGBS69",
+        "customer_reviews_link": "https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B077TGBS69#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "17 dezembro 2017",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "2.409"
+        },
+        "total_pages": "304 páginas",
+        "author": {
+            "id": "65483126-ea8b-4dfa-b8bf-9f10c5c13643",
+            "name": "Robert E. Howard",
+            "slug": "robert-e-howard"
+        },
+        "publisher": {
+            "id": "9526fdc5-1999-44bd-8185-1d1ca658ba26",
+            "name": "Pipoca & Nanquim",
+            "slug": "pipoca-and-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:04.583Z",
+        "updated_at": ""
+    },
+    {
+        "id": "dd92965c-f0b9-43aa-af9e-285b93b1dff2",
+        "title": "Grama",
+        "slug": "grama",
+        "cover_image": "https://m.media-amazon.com/images/I/51deNBC0YIL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Grama-Keum-Suk-Gendry-Kim-ebook/dp/B08GQFMFMX",
+        "customer_reviews_link": "https://www.amazon.com.br/Grama-Keum-Suk-Gendry-Kim-ebook/dp/B08GQFMFMX#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "26 setembro 2020",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "2.118"
+        },
+        "total_pages": "427 páginas",
+        "author": {
+            "id": "643cd65a-a772-4fd1-b7f5-416516d274be",
+            "name": "Keum Suk Gendry-Kim",
+            "slug": "keum-suk-gendry-kim"
+        },
+        "publisher": {
+            "id": "92102fe4-e486-447f-8ef4-3249df52994b",
+            "name": "Pipoca e Nanquim",
+            "slug": "pipoca-e-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:06.589Z",
+        "updated_at": ""
+    },
+    {
+        "id": "21444f39-9fed-4f9f-9c72-5cf4e08978d5",
+        "title": "Calafrios: Seleção de contos favoritos do autor",
+        "slug": "calafrios-selecao-de-contos-favoritos-do-autor",
+        "cover_image": "https://m.media-amazon.com/images/I/51H+j1I8b6L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Calafrios-Sele%C3%A7%C3%A3o-contos-favoritos-autor-ebook/dp/B0B89YRHGP",
+        "customer_reviews_link": "https://www.amazon.com.br/Calafrios-Sele%C3%A7%C3%A3o-contos-favoritos-autor-ebook/dp/B0B89YRHGP#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "26 agosto 2022",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "2.107"
+        },
+        "total_pages": "",
+        "author": {
+            "id": "a0fecc8d-7a3c-4de7-88c8-5fa328f85d74",
+            "name": "Junji Ito",
+            "slug": "junji-ito"
+        },
+        "publisher": {
+            "id": "1bb60dda-056d-42a6-bb4b-9a4edd487d16",
+            "name": "Pipoca e Nanquim",
+            "slug": "pipoca-e-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:08.755Z",
+        "updated_at": ""
+    },
+    {
+        "id": "c0c8ff6f-6779-4d6a-8702-1b16efcc6aad",
+        "title": "Satsuma Gishiden: Crônicas dos Leais Guerreiros de Satsuma - Vol. 1 de 3",
+        "slug": "satsuma-gishiden-cronicas-dos-leais-guerreiros-de-satsuma-vol-1-de-3",
+        "cover_image": "https://m.media-amazon.com/images/I/51P3FGi2SfL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Satsuma-Gishiden-Cr%C3%B4nicas-Leais-Guerreiros-ebook/dp/B08FVCX8HG",
+        "customer_reviews_link": "https://www.amazon.com.br/Satsuma-Gishiden-Cr%C3%B4nicas-Leais-Guerreiros-ebook/dp/B08FVCX8HG#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "31 agosto 2020",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "1.781"
+        },
+        "total_pages": "448 páginas",
+        "author": {
+            "id": "966b0ab0-7bad-47bc-af2b-c68ce944e9c6",
+            "name": "Hiroshi Hirata",
+            "slug": "hiroshi-hirata"
+        },
+        "publisher": {
+            "id": "271a5fe9-7ce6-4315-a953-2c2e437b2e88",
+            "name": "Pipoca e Nanquim",
+            "slug": "pipoca-e-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:11.026Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1337873a-f8e9-4076-96bd-4b5bc02f4b29",
+        "title": "Conan, O Bárbaro - Livro 2",
+        "slug": "conan-o-barbaro-livro-2",
+        "cover_image": "https://m.media-amazon.com/images/I/51NkJIy6qYL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B07GX9YR93",
+        "customer_reviews_link": "https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B07GX9YR93#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "20 setembro 2018",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "1.715"
+        },
+        "total_pages": "320 páginas",
+        "author": {
+            "id": "8574b323-6ff6-4412-9d01-aa3a2672797a",
+            "name": "Robert E. Howard",
+            "slug": "robert-e-howard"
+        },
+        "publisher": {
+            "id": "f3ca37df-5091-4259-a007-ce940399f399",
+            "name": "Pipoca & Nanquim",
+            "slug": "pipoca-and-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:13.743Z",
+        "updated_at": ""
+    },
+    {
+        "id": "60e3cbdb-5db0-434d-b8b0-65975fd80821",
+        "title": "Conan, O Bárbaro - Livro 3",
+        "slug": "conan-o-barbaro-livro-3",
+        "cover_image": "https://m.media-amazon.com/images/I/51Asm18964L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B07WFH8RKZ",
+        "customer_reviews_link": "https://www.amazon.com.br/Conan-B%C3%A1rbaro-Livro-Robert-Howard-ebook/dp/B07WFH8RKZ#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "26 agosto 2019",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "1.614"
+        },
+        "total_pages": "512 páginas",
+        "author": {
+            "id": "b6213846-bb21-44ce-b095-04d32ff2d7a4",
+            "name": "Robert E. Howard",
+            "slug": "robert-e-howard"
+        },
+        "publisher": {
+            "id": "e2550020-1fb0-4c73-a5fd-63c2629bfefc",
+            "name": "Pipoca & Nanquim",
+            "slug": "pipoca-and-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:16.550Z",
+        "updated_at": ""
+    },
+    {
+        "id": "76c6c9aa-ba8c-41f7-8569-f6d6274d4f65",
+        "title": "Um Pedaço de Madeira e Aço",
+        "slug": "um-pedaco-de-madeira-e-aco",
+        "cover_image": "https://m.media-amazon.com/images/I/41W6gir1T5L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Peda%C3%A7o-Madeira-A%C3%A7o-Christophe-Chabout%C3%A9-ebook/dp/B07D3F7WLM",
+        "customer_reviews_link": "https://www.amazon.com.br/Peda%C3%A7o-Madeira-A%C3%A7o-Christophe-Chabout%C3%A9-ebook/dp/B07D3F7WLM#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "29 maio 2018",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "1.584"
+        },
+        "total_pages": "328 páginas",
+        "author": {
+            "id": "052149a6-a0f9-4a0b-8d63-774995c4d75a",
+            "name": "Christophe Chabouté",
+            "slug": "christophe-chaboute"
+        },
+        "publisher": {
+            "id": "6ae615b9-d2f4-4fe1-80c8-9d0bdc02f05c",
+            "name": "Editora Pipoca & Nanquim",
+            "slug": "editora-pipoca-and-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:18.445Z",
+        "updated_at": ""
+    },
+    {
+        "id": "e57aacec-e1df-4aeb-9e57-10a81c67ade4",
+        "title": "Tartarugas Ninja: Coleçao Clássica Vol. 1",
+        "slug": "tartarugas-ninja-colecao-classica-vol-1",
+        "cover_image": "https://m.media-amazon.com/images/I/612rMDwLcjL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Tartarugas-Ninja-Cole%C3%A7ao-Cl%C3%A1ssica-Vol-ebook/dp/B08KBJBSR5",
+        "customer_reviews_link": "https://www.amazon.com.br/Tartarugas-Ninja-Cole%C3%A7ao-Cl%C3%A1ssica-Vol-ebook/dp/B08KBJBSR5#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "28 outubro 2020",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "1.439"
+        },
+        "total_pages": "",
+        "author": {
+            "id": "1de51501-161e-435f-bfba-71319d6ec409",
+            "name": "Kevin EastmanPeter Laird",
+            "slug": "kevin-eastmanpeter-laird"
+        },
+        "publisher": {
+            "id": "2e9ede96-4419-4215-aae6-a9c508b8f23b",
+            "name": "Pipoca e Nanquim",
+            "slug": "pipoca-e-nanquim"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:20.755Z",
+        "updated_at": ""
+    },
+    {
+        "id": "17746cc5-8241-424a-9ce0-d13ff0decbec",
+        "title": "A Voz do Silêncio",
+        "slug": "a-voz-do-silencio",
+        "cover_image": "https://m.media-amazon.com/images/I/41fdd-ARG0L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Voz-do-Sil%C3%AAncio-Helena-Blavatsky-ebook/dp/B00EO8KF8Q",
+        "customer_reviews_link": "https://www.amazon.com.br/Voz-do-Sil%C3%AAncio-Helena-Blavatsky-ebook/dp/B00EO8KF8Q#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "19 agosto 2013",
+        "rating": {
+            "score": "4,6",
+            "total_customer_reviews": "1.856"
+        },
+        "total_pages": "69 páginas",
+        "author": {
+            "id": "ae658ade-c32a-4757-99eb-ed8dc0f70c41",
+            "name": "Helena P. Blavatsky",
+            "slug": "helena-p-blavatsky"
+        },
+        "publisher": {
+            "id": "0c115414-e637-48c3-a4b3-41c8a9b0a8b2",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:22.923Z",
+        "updated_at": ""
+    },
+    {
+        "id": "3574237f-a322-4ef3-9273-077db8530dde",
+        "title": "A Luz da Ásia",
+        "slug": "a-luz-da-asia",
+        "cover_image": "https://m.media-amazon.com/images/I/41XMYSjj6zL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Luz-%C3%81sia-Edwin-Arnold-ebook/dp/B08C83FY11",
+        "customer_reviews_link": "https://www.amazon.com.br/Luz-%C3%81sia-Edwin-Arnold-ebook/dp/B08C83FY11#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "3 junho 2020",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "139"
+        },
+        "total_pages": "147 páginas",
+        "author": {
+            "id": "ccf9b8df-94a5-49a3-a2b7-2fff9429af62",
+            "name": "Edwin Arnold",
+            "slug": "edwin-arnold"
+        },
+        "publisher": {
+            "id": "aed39e5a-12f2-4807-86c5-8ef793de1e81",
+            "name": "Teosófica",
+            "slug": "teosofica"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:25.068Z",
+        "updated_at": ""
+    },
+    {
+        "id": "cdd37d5d-022b-4067-8b28-ad711d8e171d",
+        "title": "O mito de Sísifo",
+        "slug": "o-mito-de-sisifo",
+        "cover_image": "https://m.media-amazon.com/images/I/51NS9e5ySdL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/mito-S%C3%ADsifo-Albert-Camus-ebook/dp/B07STT5WQG",
+        "customer_reviews_link": "https://www.amazon.com.br/mito-S%C3%ADsifo-Albert-Camus-ebook/dp/B07STT5WQG#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "7 junho 2019",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "2.661"
+        },
+        "total_pages": "137 páginas",
+        "author": {
+            "id": "22d5cf86-b15e-47a5-9a9a-e7bc31cb5ee5",
+            "name": "Albert Camus",
+            "slug": "albert-camus"
+        },
+        "publisher": {
+            "id": "d4d48e7d-4cd6-4b7e-8cea-0950871ad233",
+            "name": "Record",
+            "slug": "record"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:27.257Z",
+        "updated_at": ""
+    },
+    {
+        "id": "8fca803c-2183-48bd-ad39-5abc812d0968",
+        "title": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+        "slug": "as-coisas-que-voce-so-ve-quando-desacelera-como-manter-a-calma-em-um-mundo-frenetico",
+        "cover_image": "https://m.media-amazon.com/images/I/51YxWq2plTL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/coisas-que-voc%C3%AA-quando-desacelera-ebook/dp/B075NTMDR3",
+        "customer_reviews_link": "https://www.amazon.com.br/coisas-que-voc%C3%AA-quando-desacelera-ebook/dp/B075NTMDR3#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "2 outubro 2017",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "16.685"
+        },
+        "total_pages": "219 páginas",
+        "author": {
+            "id": "5833ebe4-4ae5-4094-b5a2-31dfd45022cb",
+            "name": "Haemin Sunim",
+            "slug": "haemin-sunim"
+        },
+        "publisher": {
+            "id": "0c8b40eb-e489-4ec5-b194-aa608250f014",
+            "name": "Editora Sextante",
+            "slug": "editora-sextante"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:29.996Z",
+        "updated_at": ""
+    },
+    {
+        "id": "5ea685c0-409d-4265-994b-087c709b7157",
+        "title": "Modernidade líquida",
+        "slug": "modernidade-liquida",
+        "cover_image": "https://m.media-amazon.com/images/I/31cNUG91WDS._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Modernidade-l%C3%ADquida-Zygmunt-Bauman-ebook/dp/B008PD6V4I",
+        "customer_reviews_link": "https://www.amazon.com.br/Modernidade-l%C3%ADquida-Zygmunt-Bauman-ebook/dp/B008PD6V4I#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "17 abril 2001",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "1.834"
+        },
+        "total_pages": "223 páginas",
+        "author": {
+            "id": "f1cda00e-fff3-47d8-ab38-eae54bd92499",
+            "name": "Zygmunt Bauman",
+            "slug": "zygmunt-bauman"
+        },
+        "publisher": {
+            "id": "6e64cc15-6f44-404d-8bd2-1e278e3fe5ea",
+            "name": "Zahar",
+            "slug": "zahar"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:32.679Z",
+        "updated_at": ""
+    },
+    {
+        "id": "90b5c635-e357-46c1-8eae-317826591c77",
+        "title": "Sociedade do cansaço",
+        "slug": "sociedade-do-cansaco",
+        "cover_image": "https://m.media-amazon.com/images/I/417GbcEWF2L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Sociedade-do-cansa%C3%A7o-Byung-Chul-Han-ebook/dp/B01FUORLQQ",
+        "customer_reviews_link": "https://www.amazon.com.br/Sociedade-do-cansa%C3%A7o-Byung-Chul-Han-ebook/dp/B01FUORLQQ#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "26 novembro 2015",
+        "rating": {
+            "score": "4,6",
+            "total_customer_reviews": "13.928"
+        },
+        "total_pages": "91 páginas",
+        "author": {
+            "id": "491a4296-ffc3-4979-a3f7-909c4c83d77d",
+            "name": "Byung-Chul Han",
+            "slug": "byung-chul-han"
+        },
+        "publisher": {
+            "id": "17f1926c-4d82-4081-a863-57bfb199b1db",
+            "name": "Editora Vozes",
+            "slug": "editora-vozes"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:35.346Z",
+        "updated_at": ""
+    },
+    {
+        "id": "0b2fefa5-5b33-4191-ad8f-58b14e6bffea",
+        "title": "Seja egoísta com sua carreira: Descubra como colocar você em primeiro lugar em sua jornada profissional e alcance seus objetivos pessoais",
+        "slug": "seja-egoista-com-sua-carreira-descubra-como-colocar-voce-em-primeiro-lugar-em-sua-jornada-profissional-e-alcance-seus-objetivos-pessoais",
+        "cover_image": "https://m.media-amazon.com/images/I/41KcLP4VmnL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Seja-ego%C3%ADsta-com-sua-carreira-ebook/dp/B09HSKN3WC",
+        "customer_reviews_link": "https://www.amazon.com.br/Seja-ego%C3%ADsta-com-sua-carreira-ebook/dp/B09HSKN3WC#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "15 novembro 2021",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "3.878"
+        },
+        "total_pages": "234 páginas",
+        "author": {
+            "id": "d8ea1689-6988-46c1-89d6-e7b8e9882d93",
+            "name": "Luciano Santos",
+            "slug": "luciano-santos"
+        },
+        "publisher": {
+            "id": "223a9bf8-33bd-43b3-a47d-d91a8e7beda3",
+            "name": "Gente Autoridade",
+            "slug": "gente-autoridade"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:37.777Z",
+        "updated_at": ""
+    },
+    {
+        "id": "3b87b0a6-3ce1-4d4e-81fe-697a0e477835",
+        "title": "Eu, Robô",
+        "slug": "eu-robo",
+        "cover_image": "https://m.media-amazon.com/images/I/41gCd9kNpEL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Eu-Robo-Isaac-Asimov-ebook/dp/B015EED2O2",
+        "customer_reviews_link": "https://www.amazon.com.br/Eu-Robo-Isaac-Asimov-ebook/dp/B015EED2O2#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "16 setembro 2015",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "7.428"
+        },
+        "total_pages": "277 páginas",
+        "author": {
+            "id": "cb5c413e-6065-4753-a754-f51f224979fb",
+            "name": "Isaac Asimov",
+            "slug": "isaac-asimov"
+        },
+        "publisher": {
+            "id": "54da80c5-da1e-4504-9d8f-73d237ef3d2e",
+            "name": "Editora Aleph",
+            "slug": "editora-aleph"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:40.109Z",
+        "updated_at": ""
+    },
+    {
+        "id": "e2ae5160-d2a6-49a8-bab8-1d9909054361",
+        "title": "O fim da eternidade",
+        "slug": "o-fim-da-eternidade",
+        "cover_image": "https://m.media-amazon.com/images/I/61p+TILWn-L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/fim-eternidade-Isaac-Asimov-ebook/dp/B015EEAIH6",
+        "customer_reviews_link": "https://www.amazon.com.br/fim-eternidade-Isaac-Asimov-ebook/dp/B015EEAIH6#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "16 setembro 2015",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "4.804"
+        },
+        "total_pages": "272 páginas",
+        "author": {
+            "id": "8279b4e7-3456-4124-8354-5324e37fe54d",
+            "name": "Isaac Asimov",
+            "slug": "isaac-asimov"
+        },
+        "publisher": {
+            "id": "e12f0a56-a4ac-410f-ac5a-9c29320ff0e1",
+            "name": "Editora Aleph",
+            "slug": "editora-aleph"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:42.562Z",
+        "updated_at": ""
+    },
+    {
+        "id": "54c4ffe1-d6ab-4767-9786-5892cf5cc78c",
+        "title": "Box - Trilogia Da Fundação",
+        "slug": "box-trilogia-da-fundacao",
+        "cover_image": "https://m.media-amazon.com/images/I/51Tjhkmvy7L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Box-Funda%C3%A7%C3%A3o-Trilogia-Isaac-Asimov-ebook/dp/B07PW57BK8",
+        "customer_reviews_link": "https://www.amazon.com.br/Box-Funda%C3%A7%C3%A3o-Trilogia-Isaac-Asimov-ebook/dp/B07PW57BK8#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "12 abril 2019",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "6.005"
+        },
+        "total_pages": "900 páginas",
+        "author": {
+            "id": "0e8c1e28-b409-4ebd-9c60-8cadbc16c931",
+            "name": "Isaac Asimov",
+            "slug": "isaac-asimov"
+        },
+        "publisher": {
+            "id": "3806c2ab-a285-4bad-af25-9196fdb07558",
+            "name": "Editora Aleph",
+            "slug": "editora-aleph"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:44.814Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1bdae9be-6028-4fed-9f16-0fda8f7e4e20",
+        "title": "Os egípcios: As origens, o apogeu e o destino de uma civilização (História Universal Livro 1)",
+        "slug": "os-egipcios-as-origens-o-apogeu-e-o-destino-de-uma-civilizacao-historia-universal-livro-1",
+        "cover_image": "https://m.media-amazon.com/images/I/514E5q2dKXL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Os-eg%C3%ADpcios-origens-destino-civiliza%C3%A7%C3%A3o-ebook/dp/B09BRFRB3X",
+        "customer_reviews_link": "https://www.amazon.com.br/Os-eg%C3%ADpcios-origens-destino-civiliza%C3%A7%C3%A3o-ebook/dp/B09BRFRB3X#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "20 agosto 2021",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "490"
+        },
+        "total_pages": "337 páginas",
+        "author": {
+            "id": "571e3478-954c-4eb9-a2db-5a9f7a8c69d6",
+            "name": "Isaac Asimov",
+            "slug": "isaac-asimov"
+        },
+        "publisher": {
+            "id": "ccb08708-07da-4620-8726-ae6365043850",
+            "name": "Planeta Minotauro",
+            "slug": "planeta-minotauro"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:47.099Z",
+        "updated_at": ""
+    },
+    {
+        "id": "e4a543fe-ee1f-4c22-9683-a172b5b42a72",
+        "title": "As Cavernas de Aço (Série dos Robôs Livro 1)",
+        "slug": "as-cavernas-de-aco-serie-dos-robos-livro-1",
+        "cover_image": "https://m.media-amazon.com/images/I/51H6sDLWqDL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Cavernas-A%C3%A7o-S%C3%A9rie-Rob%C3%B4s-Livro-ebook/dp/B015EEAHB8",
+        "customer_reviews_link": "https://www.amazon.com.br/Cavernas-A%C3%A7o-S%C3%A9rie-Rob%C3%B4s-Livro-ebook/dp/B015EEAHB8#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "16 setembro 2015",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "3.136"
+        },
+        "total_pages": "311 páginas",
+        "author": {
+            "id": "c73b43cf-a548-421c-905d-5d2892a037ca",
+            "name": "Isaac Asimov",
+            "slug": "isaac-asimov"
+        },
+        "publisher": {
+            "id": "da6ac887-b89b-4b95-882a-f6f4f0459ac1",
+            "name": "Editora Aleph",
+            "slug": "editora-aleph"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:49.238Z",
+        "updated_at": ""
+    },
+    {
+        "id": "b6561360-16dd-486d-9bf3-6a55f66fa129",
+        "title": "Os Robôs da Alvorada 3 (Série dos Robôs)",
+        "slug": "os-robos-da-alvorada-3-serie-dos-robos",
+        "cover_image": "https://m.media-amazon.com/images/I/515ewFLMcaL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Rob%C3%B4s-Alvorada-S%C3%A9rie-dos-Livro-ebook/dp/B07FP1QWN9",
+        "customer_reviews_link": "https://www.amazon.com.br/Rob%C3%B4s-Alvorada-S%C3%A9rie-dos-Livro-ebook/dp/B07FP1QWN9#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "16 julho 2018",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "1.459"
+        },
+        "total_pages": "560 páginas",
+        "author": {
+            "id": "ba03e15d-3792-4ec7-9ed0-ebc12725f15b",
+            "name": "Isaac Asimov",
+            "slug": "isaac-asimov"
+        },
+        "publisher": {
+            "id": "9780b807-4854-4bf0-824c-7354034c1b05",
+            "name": "Editora Aleph",
+            "slug": "editora-aleph"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:51.465Z",
+        "updated_at": ""
+    },
+    {
+        "id": "320cc663-4ab4-4514-850f-c428d61d183b",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Rob%C3%B4s-Imp%C3%A9rio-S%C3%A9rie-rob%C3%B4s-Livro-ebook/dp/B09VVXZDVP",
+        "customer_reviews_link": "https://www.amazon.com.br/Rob%C3%B4s-Imp%C3%A9rio-S%C3%A9rie-rob%C3%B4s-Livro-ebook/dp/B09VVXZDVP#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "ff7d3768-312d-445c-acbe-586376383d03",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "74c49877-5a06-46e5-bc97-6be62b2bd787",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:51.716Z",
+        "updated_at": ""
+    },
+    {
+        "id": "2504db6b-ff42-4737-a52f-965d70448582",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Buddha-Kapilavastu-English-Osamu-Tezuka-ebook/dp/B074MFTJCJ",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-Kapilavastu-English-Osamu-Tezuka-ebook/dp/B074MFTJCJ#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "d96d6520-a3b0-4906-ac79-5013705ad4bf",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "48d17447-37e3-426d-a6d8-f4838e1102a9",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:51.924Z",
+        "updated_at": ""
+    },
+    {
+        "id": "67dc137a-d12a-4dbb-84cd-b6a8386ec06d",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Buddha-Ananda-English-Osamu-Tezuka-ebook/dp/B076ZM28QS",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-Ananda-English-Osamu-Tezuka-ebook/dp/B076ZM28QS#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "e12abb56-8e00-4818-8eaf-a1d938f20fb7",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "30b0bc62-f8a6-4ad8-a3e7-c5c97f311a63",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:52.132Z",
+        "updated_at": ""
+    },
+    {
+        "id": "22ae43b6-2085-4a0c-bd5d-082400d58890",
+        "title": "Buddha: Volume 5: Deer Park (English Edition)",
+        "slug": "buddha-volume-5-deer-park-english-edition",
+        "cover_image": "https://m.media-amazon.com/images/I/61MRqr28wML._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Buddha-5-Deer-Park-English-ebook/dp/B076ZKGC9D",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-5-Deer-Park-English-ebook/dp/B076ZKGC9D#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "3 janeiro 2018",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "119"
+        },
+        "total_pages": "352 páginas",
+        "author": {
+            "id": "108faa6a-2bf1-44b1-bb54-f11898397221",
+            "name": "Osamu Tezuka",
+            "slug": "osamu-tezuka"
+        },
+        "publisher": {
+            "id": "cecc5d68-807b-4dc8-9833-58e9f33c58f6",
+            "name": "Vertical Comics",
+            "slug": "vertical-comics"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:54.944Z",
+        "updated_at": ""
+    },
+    {
+        "id": "0b8c8513-a394-45c6-b20d-9d54cde257ba",
+        "title": "Buddha: Volume 7: Prince Ajatasattu (English Edition)",
+        "slug": "buddha-volume-7-prince-ajatasattu-english-edition",
+        "cover_image": "https://m.media-amazon.com/images/I/61L72WFs+zL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Buddha-7-Prince-Ajatasattu-English-ebook/dp/B076ZS1P98",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-7-Prince-Ajatasattu-English-ebook/dp/B076ZS1P98#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "7 fevereiro 2018",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "108"
+        },
+        "total_pages": "418 páginas",
+        "author": {
+            "id": "fbc186a1-4c0f-455f-93e6-37e26b87e895",
+            "name": "Osamu Tezuka",
+            "slug": "osamu-tezuka"
+        },
+        "publisher": {
+            "id": "a8015244-cf16-4f74-98a3-edb76dd2efe3",
+            "name": "Vertical Comics",
+            "slug": "vertical-comics"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:57.803Z",
+        "updated_at": ""
+    },
+    {
+        "id": "840d9722-2a57-4e20-a113-3b24376e7b33",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Buddha-2-Four-Encounters-English-ebook/dp/B074MFD4XH",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-2-Four-Encounters-English-ebook/dp/B074MFD4XH#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "125313b0-2746-4312-a12b-9ea4c7311606",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "72407717-6157-4cdb-97fc-e5b44a56d3e2",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:19:58.184Z",
+        "updated_at": ""
+    },
+    {
+        "id": "0a69d26a-79c0-4699-8708-86d5daf2247c",
+        "title": "Buddha: Volume 4: The Forest of Uruvela (English Edition)",
+        "slug": "buddha-volume-4-the-forest-of-uruvela-english-edition",
+        "cover_image": "https://m.media-amazon.com/images/I/51MG9S40YWL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Buddha-4-Forest-Uruvela-English-ebook/dp/B074MFZSBZ",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-4-Forest-Uruvela-English-ebook/dp/B074MFZSBZ#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "6 dezembro 2017",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "136"
+        },
+        "total_pages": "376 páginas",
+        "author": {
+            "id": "363d6fac-d748-408f-b010-66118f371319",
+            "name": "Osamu Tezuka",
+            "slug": "osamu-tezuka"
+        },
+        "publisher": {
+            "id": "0eb32b2d-b716-4e4e-b998-29b36085d875",
+            "name": "Vertical Comics",
+            "slug": "vertical-comics"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:01.294Z",
+        "updated_at": ""
+    },
+    {
+        "id": "f1106b55-3b47-4f1f-bb05-627eab8853a7",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Buddha-Jetavana-English-Osamu-Tezuka-ebook/dp/B076ZXRQ6M",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-Jetavana-English-Osamu-Tezuka-ebook/dp/B076ZXRQ6M#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "0b6ed81f-e071-4a6b-8f49-8e1d11841e91",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "3c9cdc2b-6399-4f7d-be43-796daaa784f3",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:01.512Z",
+        "updated_at": ""
+    },
+    {
+        "id": "07dead55-9ac4-4c0d-9d27-0e9e89da8799",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Buddha-Devadatta-English-Osamu-Tezuka-ebook/dp/B074MG8JPM",
+        "customer_reviews_link": "https://www.amazon.com.br/Buddha-Devadatta-English-Osamu-Tezuka-ebook/dp/B074MG8JPM#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "e4736e21-c2e4-44dd-9545-e77827726b96",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "a713d140-14c7-48d6-9322-090991166ca8",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:01.726Z",
+        "updated_at": ""
+    },
+    {
+        "id": "f3179bf4-444c-4599-81e1-a2867e955d0d",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Tra%C3%A7o-Giz-Miguelanxo-Prado-ebook/dp/B08QVHQWNB",
+        "customer_reviews_link": "https://www.amazon.com.br/Tra%C3%A7o-Giz-Miguelanxo-Prado-ebook/dp/B08QVHQWNB#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "b6a8a929-ed44-49bc-b3f6-ae59501f7e96",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "4db5ce5c-af0d-48f3-bfbc-a663c4a44c29",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:01.947Z",
+        "updated_at": ""
+    },
+    {
+        "id": "84d8f612-8af2-4752-a3c2-82fc146f3ba3",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Ensaio-sobre-cegueira-Jos%C3%A9-Saramago-ebook/dp/B00LUU7SUO",
+        "customer_reviews_link": "https://www.amazon.com.br/Ensaio-sobre-cegueira-Jos%C3%A9-Saramago-ebook/dp/B00LUU7SUO#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "1cbd51a6-e21b-400f-9b2a-fc822b7f90e8",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "1a1ad3e4-3746-4bf7-8228-06d449dd412e",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:02.241Z",
+        "updated_at": ""
+    },
+    {
+        "id": "4c9cc814-9ab1-497e-8516-70955a0ebcb1",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/profeta-Khalil-Gibran-ebook/dp/B07PJV1LGK",
+        "customer_reviews_link": "https://www.amazon.com.br/profeta-Khalil-Gibran-ebook/dp/B07PJV1LGK#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "da01a9a3-2555-4905-abe4-e99a9e2c340a",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "e5f11506-a266-439b-9118-7febf2c42d76",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:02.460Z",
+        "updated_at": ""
+    },
+    {
+        "id": "ebb6b779-07cc-423d-bc4d-01bf5179963a",
+        "title": "O Louco",
+        "slug": "o-louco",
+        "cover_image": "https://m.media-amazon.com/images/I/51tKnC+hwML._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Louco-Khalil-Gibran-ebook/dp/B09VG3F79J",
+        "customer_reviews_link": "https://www.amazon.com.br/Louco-Khalil-Gibran-ebook/dp/B09VG3F79J#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "14 março 2022",
+        "rating": {
+            "score": "4,4",
+            "total_customer_reviews": "369"
+        },
+        "total_pages": "102 páginas",
+        "author": {
+            "id": "a9aa6afd-a0ed-4bd6-a2fc-d87ad1d252a1",
+            "name": "Khalil Gibran",
+            "slug": "khalil-gibran"
+        },
+        "publisher": {
+            "id": "628bfe79-a396-40f8-b1ed-12b13a05c1b4",
+            "name": "Montecristo Editora",
+            "slug": "montecristo-editora"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:04.454Z",
+        "updated_at": ""
+    },
+    {
+        "id": "2dc25035-97bd-4889-8365-388d23f5cbab",
+        "title": "Sobre a brevidade da vida / Sobre a firmeza do sábio: Diálogos",
+        "slug": "sobre-a-brevidade-da-vida-sobre-a-firmeza-do-sabio-dialogos",
+        "cover_image": "https://m.media-amazon.com/images/I/41vrR7kIisL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Sobre-brevidade-vida-firmeza-s%C3%A1bio-ebook/dp/B0719CZZKV",
+        "customer_reviews_link": "https://www.amazon.com.br/Sobre-brevidade-vida-firmeza-s%C3%A1bio-ebook/dp/B0719CZZKV#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "9 junho 2017",
+        "rating": {
+            "score": "4,7",
+            "total_customer_reviews": "4.507"
+        },
+        "total_pages": "94 páginas",
+        "author": {
+            "id": "5653b770-5536-498d-8507-7672e4b61c01",
+            "name": "Sêneca",
+            "slug": "seneca"
+        },
+        "publisher": {
+            "id": "9f803064-2705-4445-b622-52cfbdf8661e",
+            "name": "Penguin-Companhia",
+            "slug": "penguin-companhia"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:06.930Z",
+        "updated_at": ""
+    },
+    {
+        "id": "4b887311-e937-4a54-b6a4-f4627df064f6",
+        "title": "Dhammapada: O Caminho do Darma",
+        "slug": "dhammapada-o-caminho-do-darma",
+        "cover_image": "https://m.media-amazon.com/images/I/41IbTOdM7uL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Dhammapada-Caminho-do-Darma-An%C3%B4nimo-ebook/dp/B07K1K2H4B",
+        "customer_reviews_link": "https://www.amazon.com.br/Dhammapada-Caminho-do-Darma-An%C3%B4nimo-ebook/dp/B07K1K2H4B#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "29 outubro 2018",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "1.572"
+        },
+        "total_pages": "87 páginas",
+        "author": {
+            "id": "5bb375dc-403e-4025-a800-038e442ed05a",
+            "name": "Anônimo",
+            "slug": "anonimo"
+        },
+        "publisher": {
+            "id": "6f97c482-ac03-4e70-9dd5-b7ecf262f062",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:09.386Z",
+        "updated_at": ""
+    },
+    {
+        "id": "c17feccd-8b0d-4625-a170-7bcd9c615250",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Lord-Rings-Fellowship-Towers-English-ebook/dp/B002RI9176",
+        "customer_reviews_link": "https://www.amazon.com.br/Lord-Rings-Fellowship-Towers-English-ebook/dp/B002RI9176#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "8220e43d-fa0c-4e5c-82f4-da5bc63c0406",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "673d646c-5baf-47c7-b95b-d7fa8c08a31d",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:09.603Z",
+        "updated_at": ""
+    },
+    {
+        "id": "0fb600b6-f064-4ae1-b3da-0140b0d4a39b",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Box-Trilogia-Senhor-dos-An%C3%A9is-ebook/dp/B07XLVGMWZ",
+        "customer_reviews_link": "https://www.amazon.com.br/Box-Trilogia-Senhor-dos-An%C3%A9is-ebook/dp/B07XLVGMWZ#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "b905927e-37e8-4334-8f41-9c08ab3f8c6d",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "62d5dd3a-ebed-49f1-9b1f-244e5a64e179",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:09.819Z",
+        "updated_at": ""
+    },
+    {
+        "id": "894341d4-9897-4cbd-941c-296e53c86747",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Thousand-Collected-Joseph-Campbell-English-ebook/dp/B08MWW2VDL",
+        "customer_reviews_link": "https://www.amazon.com.br/Thousand-Collected-Joseph-Campbell-English-ebook/dp/B08MWW2VDL#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "60d1f6dd-e8fb-42e5-8f7e-2f9844e20e31",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "ecfff886-1949-45d7-8c6e-31124cbe628e",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:10.029Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1fd1b1ff-b2ab-430a-935d-442804b7ce47",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/pequeno-pr%C3%ADncipe-original-Antoine-Saint-Exup%C3%A9ry-ebook/dp/B00BP93VDS",
+        "customer_reviews_link": "https://www.amazon.com.br/pequeno-pr%C3%ADncipe-original-Antoine-Saint-Exup%C3%A9ry-ebook/dp/B00BP93VDS#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "cba4ae64-fab6-4727-ba02-329e4bc3acdb",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "55824a23-c58e-422e-88db-9f114b640e9d",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:10.289Z",
+        "updated_at": ""
+    },
+    {
+        "id": "dc37bf28-6e95-4f67-9b81-d2463e379e67",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Di%C3%A1rio-Estoico-Li%C3%A7%C3%B5es-Sabedoria-Perseveran%C3%A7a-ebook/dp/B09N41Q5MS",
+        "customer_reviews_link": "https://www.amazon.com.br/Di%C3%A1rio-Estoico-Li%C3%A7%C3%B5es-Sabedoria-Perseveran%C3%A7a-ebook/dp/B09N41Q5MS#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "6864882c-d086-4e20-a719-2f692e4720cc",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "1f8e1b3e-ed0b-4747-bc84-0d2b1f09f06a",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:10.500Z",
+        "updated_at": ""
+    },
+    {
+        "id": "86c2b751-d878-4388-86ec-f5ee6f3cb4d6",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/psicologia-financeira-atemporais-gan%C3%A2ncia-felicidade-ebook/dp/B08WBXHFBL",
+        "customer_reviews_link": "https://www.amazon.com.br/psicologia-financeira-atemporais-gan%C3%A2ncia-felicidade-ebook/dp/B08WBXHFBL#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "b35e4941-e37f-4475-a8a6-bfb57f3a8a9b",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "3d54b625-d89c-4e4f-9447-c5dd41bd2eb6",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:10.715Z",
+        "updated_at": ""
+    },
+    {
+        "id": "bd82397e-3182-41b8-844e-708c3f3cea00",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Um-Bairro-Distante-Mang%C3%A1-%C3%9Anico/dp/6586672929",
+        "customer_reviews_link": "https://www.amazon.com.br/Um-Bairro-Distante-Mang%C3%A1-%C3%9Anico/dp/6586672929#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "308a4506-7e68-4c55-a722-da5d64f733f5",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "6464c78a-e805-4535-babb-15a742b068a1",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:10.966Z",
+        "updated_at": ""
+    },
+    {
+        "id": "8eef7835-3c63-4395-b472-96f1fb51606e",
+        "title": "Sandman Vol. 1: Preludes & Nocturnes - 30th Anniversary Edition (The Sandman) (English Edition)",
+        "slug": "sandman-vol-1-preludes-and-nocturnes-30th-anniversary-edition-the-sandman-english-edition",
+        "cover_image": "https://m.media-amazon.com/images/I/51yK+G91E9L._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Sandman-Vol-Preludes-Nocturnes-Anniversary-ebook/dp/B07J568M42",
+        "customer_reviews_link": "https://www.amazon.com.br/Sandman-Vol-Preludes-Nocturnes-Anniversary-ebook/dp/B07J568M42#customerReviews",
+        "subtitle": "Kindle e comiXology",
+        "release_date": "30 outubro 2018",
+        "rating": {
+            "score": "4,9",
+            "total_customer_reviews": "7.224"
+        },
+        "total_pages": "236 páginas",
+        "author": {
+            "id": "81565ebf-3a73-4e0c-85bf-0a21e05e70ed",
+            "name": "Neil Gaiman",
+            "slug": "neil-gaiman"
+        },
+        "publisher": {
+            "id": "89304f3e-18e6-4aba-bd19-f80aba882212",
+            "name": "Vertigo",
+            "slug": "vertigo"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:13.637Z",
+        "updated_at": ""
+    },
+    {
+        "id": "2bd2d460-3d8d-449b-b088-f554837bc656",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Longer-Human-English-Osamu-Dazai-ebook/dp/B0099JIU82",
+        "customer_reviews_link": "https://www.amazon.com.br/Longer-Human-English-Osamu-Dazai-ebook/dp/B0099JIU82#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "63dee99a-3937-4380-9e43-3905a0fa1581",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "6c57e3f2-79d5-421a-9bf1-f0a4d472382f",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:13.865Z",
+        "updated_at": ""
+    },
+    {
+        "id": "401fdafb-6e1f-4b87-9633-f829232db9a0",
+        "title": "No Longer Human Complete Edition (manga) (English Edition)",
+        "slug": "no-longer-human-complete-edition-manga-english-edition",
+        "cover_image": "https://m.media-amazon.com/images/I/51xyoJ0S2zL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Longer-Human-Complete-manga-English-ebook/dp/B09WH7KNBB",
+        "customer_reviews_link": "https://www.amazon.com.br/Longer-Human-Complete-manga-English-ebook/dp/B09WH7KNBB#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "1 novembro 2022",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "88"
+        },
+        "total_pages": "612 páginas",
+        "author": {
+            "id": "2831bccf-72a7-4170-8d44-35c0cf29e53c",
+            "name": "Usamaru FuruyaOsamu Dazai",
+            "slug": "usamaru-furuyaosamu-dazai"
+        },
+        "publisher": {
+            "id": "af2c3ada-ebfb-450d-b1fb-8b98be159b8f",
+            "name": "Vertical Comics",
+            "slug": "vertical-comics"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:16.253Z",
+        "updated_at": ""
+    },
+    {
+        "id": "e6d3c6dc-b1aa-42a8-88fb-f7b17f9164e2",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Tao-Te-Ching-Caminho-Virtude-ebook/dp/B00D9EAV58",
+        "customer_reviews_link": "https://www.amazon.com.br/Tao-Te-Ching-Caminho-Virtude-ebook/dp/B00D9EAV58#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "7a9b08ff-957e-4925-9366-cd71415de7e6",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "a0df31fb-c0e6-4284-b36d-8e05cc5d8d82",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:16.474Z",
+        "updated_at": ""
+    },
+    {
+        "id": "102a4383-3db8-4812-af4b-fe237a1f673d",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Dom-Quixote-1-Miguel-Cervantes-ebook/dp/B08LSZ5YN3",
+        "customer_reviews_link": "https://www.amazon.com.br/Dom-Quixote-1-Miguel-Cervantes-ebook/dp/B08LSZ5YN3#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "8f96b088-1744-478e-bf85-42bf7e6b057e",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "5ad3879e-ebc8-43ff-a839-ca5746fe6ec7",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:16.774Z",
+        "updated_at": ""
+    },
+    {
+        "id": "6144d0ea-aac7-4ccf-8d55-07fdc4da9af8",
+        "title": "As extraordinárias viagens de Júlio Verne (Clássicos da literatura mundial)",
+        "slug": "as-extraordinarias-viagens-de-julio-verne-classicos-da-literatura-mundial",
+        "cover_image": "https://m.media-amazon.com/images/I/51awtBLbOrL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/extraordin%C3%A1rias-viagens-Cl%C3%A1ssicos-literatura-mundial-ebook/dp/B08Z4CRCG4",
+        "customer_reviews_link": "https://www.amazon.com.br/extraordin%C3%A1rias-viagens-Cl%C3%A1ssicos-literatura-mundial-ebook/dp/B08Z4CRCG4#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "29 março 2021",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "5.002"
+        },
+        "total_pages": "2293 páginas",
+        "author": {
+            "id": "2ff0d67c-d935-49b2-9067-dc93718843b1",
+            "name": "Júlio Verne",
+            "slug": "julio-verne"
+        },
+        "publisher": {
+            "id": "d250616c-cdc9-4b8b-b067-ed7b321e4c48",
+            "name": "Principis",
+            "slug": "principis"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:20.316Z",
+        "updated_at": ""
+    },
+    {
+        "id": "0d368a8b-9ff7-4005-8be3-df1ba2c999ee",
+        "title": "A Jornada do Escritor: Estrutura mítica para escritores",
+        "slug": "a-jornada-do-escritor-estrutura-mitica-para-escritores",
+        "cover_image": "https://m.media-amazon.com/images/I/51J1hASHOUL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Jornada-Escritor-Estrutura-m%C3%ADtica-escritores-ebook/dp/B015EEALPK",
+        "customer_reviews_link": "https://www.amazon.com.br/Jornada-Escritor-Estrutura-m%C3%ADtica-escritores-ebook/dp/B015EEALPK#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "16 setembro 2015",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "1.554"
+        },
+        "total_pages": "611 páginas",
+        "author": {
+            "id": "53b6e088-d9c5-4d31-a9b6-168c395a37c5",
+            "name": "Christopher Vogler",
+            "slug": "christopher-vogler"
+        },
+        "publisher": {
+            "id": "a74c1e5b-f947-4289-8a0e-080e83e6e7d7",
+            "name": "Editora Aleph",
+            "slug": "editora-aleph"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:22.599Z",
+        "updated_at": ""
+    },
+    {
+        "id": "827cd16d-4934-44de-950e-05db74c14252",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM",
+        "customer_reviews_link": "https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "d283b0ba-3eec-4737-97c5-a3674868c81c",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "13b8b845-2a4f-4370-9068-130a6575af92",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:22.839Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1ed83c17-625f-4663-ab51-d07d55f2191a",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Felicidade-Ci%C3%AAncia-pr%C3%A1tica-para-feliz-ebook/dp/B0B9HW5QP9",
+        "customer_reviews_link": "https://www.amazon.com.br/Felicidade-Ci%C3%AAncia-pr%C3%A1tica-para-feliz-ebook/dp/B0B9HW5QP9#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "cbeb4b5c-4128-4d2a-a57d-98fa3474f965",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "05ae7f2f-40a0-4118-9215-a4b40a079caf",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:23.050Z",
+        "updated_at": ""
+    },
+    {
+        "id": "85c41f26-f3ff-4330-a3cf-d9b200dac2eb",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/mundo-assombrado-pelos-dem%C3%B4nios-ci%C3%AAncia-ebook",
+        "customer_reviews_link": "https://www.amazon.com.br/mundo-assombrado-pelos-dem%C3%B4nios-ci%C3%AAncia-ebook#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "5f95b054-0321-439e-b2a9-adf7f2cb2c43",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "690aec38-c204-461f-8976-dc45612d5a1e",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:23.563Z",
+        "updated_at": ""
+    },
+    {
+        "id": "9cc81706-b01e-4a68-b6d6-c9b7e024b0ba",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/busca-mesmos-Cl%C3%B3vis-Barros-Filho-ebook/dp/B077Z6HVKY",
+        "customer_reviews_link": "https://www.amazon.com.br/busca-mesmos-Cl%C3%B3vis-Barros-Filho-ebook/dp/B077Z6HVKY#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "c0a18b57-b4bf-42b7-b03f-e27d83264c13",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "16c962bb-4f0a-4329-8b76-e968d2ee150f",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:23.780Z",
+        "updated_at": ""
+    },
+    {
+        "id": "f408e3b5-f43a-4fc8-a6b9-970579d82f3f",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU",
+        "customer_reviews_link": "https://www.amazon.com.br/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "0d820d35-a2ad-4d15-85db-3cbd7bd56e54",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "df743855-79e3-432a-ba4b-8b9ad6458494",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:23.998Z",
+        "updated_at": ""
+    },
+    {
+        "id": "b752e0b5-e580-452b-9c99-51aa8e0513e3",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Old-Man-Sea-English-ebook/dp/B000FC0SH8",
+        "customer_reviews_link": "https://www.amazon.com.br/Old-Man-Sea-English-ebook/dp/B000FC0SH8#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "7cb666b6-ccb6-424c-8c64-33046ce840fa",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "7f4d3f0f-bf94-4fe5-86f1-927c41aa581f",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:24.222Z",
+        "updated_at": ""
+    },
+    {
+        "id": "e847815b-6758-4c20-83e7-0914743fbf62",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/l%C3%B3gica-Cisne-Edi%C3%A7%C3%A3o-revista-ampliada-ebook/dp/B094RC6F3C",
+        "customer_reviews_link": "https://www.amazon.com.br/l%C3%B3gica-Cisne-Edi%C3%A7%C3%A3o-revista-ampliada-ebook/dp/B094RC6F3C#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "f934718e-f8b3-44d0-8dcc-4f6b5cc6ce79",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "052ef3fc-f220-4e36-9cbf-d41174ea909d",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:24.460Z",
+        "updated_at": ""
+    },
+    {
+        "id": "0fe3d002-5f13-422c-b9fe-8e9dd36c6f45",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Origin-Novel-Robert-Langdon-English-ebook/dp/B01LY7FD0D",
+        "customer_reviews_link": "https://www.amazon.com.br/Origin-Novel-Robert-Langdon-English-ebook/dp/B01LY7FD0D#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "eef2600f-1d2a-4899-a2d4-5cd5959eb4ce",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "eef5323b-6ce8-45b8-8fcf-9056752dedcf",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:24.696Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1e6f43da-b170-45ac-97bf-0c5d05ffbe10",
+        "title": "O Código Da Vinci (Robert Langdon Livro 2)",
+        "slug": "o-codigo-da-vinci-robert-langdon-livro-2",
+        "cover_image": "https://m.media-amazon.com/images/I/41U51ByfcwL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/C%C3%B3digo-Vinci-Robert-Langdon-ebook/dp/B00A3CR0AI",
+        "customer_reviews_link": "https://www.amazon.com.br/C%C3%B3digo-Vinci-Robert-Langdon-ebook/dp/B00A3CR0AI#customerReviews",
+        "subtitle": "eBook Kindle",
+        "release_date": "11 setembro 2012",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "2.910"
+        },
+        "total_pages": "",
+        "author": {
+            "id": "511bfe3b-1d2a-407c-afe7-b6af6ccabe26",
+            "name": "Dan Brown",
+            "slug": "dan-brown"
+        },
+        "publisher": {
+            "id": "123efeb7-c5ac-4d7e-9e77-a402545403ef",
+            "name": "Editora Arqueiro",
+            "slug": "editora-arqueiro"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:27.314Z",
+        "updated_at": ""
+    },
+    {
+        "id": "ea82e47c-4d13-483b-bf9f-1173dc5cd71f",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Anjos-dem%C3%B4nios-Robert-Langdon-Brown-ebook/dp/B00A3D922Q",
+        "customer_reviews_link": "https://www.amazon.com.br/Anjos-dem%C3%B4nios-Robert-Langdon-Brown-ebook/dp/B00A3D922Q#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "6b193e6c-561c-4071-b56d-8d2a93600dfc",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "397728e9-f609-41bd-99d0-138cb9ee41fa",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:27.528Z",
+        "updated_at": ""
+    },
+    {
+        "id": "7dcbe2da-9d10-45d0-bf94-f75dc72f1049",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Inferno-Robert-Langdon-Dan-Brown-ebook/dp/B00C7U28GA",
+        "customer_reviews_link": "https://www.amazon.com.br/Inferno-Robert-Langdon-Dan-Brown-ebook/dp/B00C7U28GA#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "08b3e092-107b-49f6-b6e8-767388df3062",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "ec277761-d159-41e3-9932-c813d2435da5",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:27.748Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1e5dc186-82b5-4a11-aaae-61d781561779",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/S%C3%ADmbolo-Perdido-Robert-Langdon-ebook/dp/B00DSPGH1U",
+        "customer_reviews_link": "https://www.amazon.com.br/S%C3%ADmbolo-Perdido-Robert-Langdon-ebook/dp/B00DSPGH1U#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "f5aab5f5-3cd7-43ff-9be3-083ec4fbf53e",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "b079c2f3-549a-465d-a54d-30d929b62b68",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:27.967Z",
+        "updated_at": ""
+    },
+    {
+        "id": "4deeb5ad-9400-4c74-98dd-c4763eb3ac0d",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/batalha-do-Apocalipse-Eduardo-Spohr-ebook/dp/B00A3CSWOQ",
+        "customer_reviews_link": "https://www.amazon.com.br/batalha-do-Apocalipse-Eduardo-Spohr-ebook/dp/B00A3CSWOQ#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "378765bf-5ee7-497d-9100-96dfeb23475b",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "d34f2f0e-8ae7-4ba8-a46f-c088ebcf9115",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:28.197Z",
+        "updated_at": ""
+    },
+    {
+        "id": "2de1962c-1e67-41aa-b4fa-5f49a2074306",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Divina-Com%C3%A9dia-Dante-Alighieri-ebook/dp/B07R9MFH52",
+        "customer_reviews_link": "https://www.amazon.com.br/Divina-Com%C3%A9dia-Dante-Alighieri-ebook/dp/B07R9MFH52#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "1b5039ee-5f1b-48d4-9fd5-bd6fc139a88c",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "38828432-6fc5-4e6d-bb32-88419fd9c1f7",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:28.428Z",
+        "updated_at": ""
+    },
+    {
+        "id": "3b22d06e-82bf-4c1d-833f-fec908ffdb9f",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Communication-Engineers-developers-communicators-productivity-ebook/dp/B08W8MJNF8",
+        "customer_reviews_link": "https://www.amazon.com.br/Communication-Engineers-developers-communicators-productivity-ebook/dp/B08W8MJNF8#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "cdca90f7-809f-4ed0-9fb6-5d7de5a96a58",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "67b166cd-425a-47e6-a888-3eef054029d4",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:28.653Z",
+        "updated_at": ""
+    },
+    {
+        "id": "0b7eb197-e811-4d9f-a936-1cf6e4d43cca",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook/dp/B08RMSHYGG",
+        "customer_reviews_link": "https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook/dp/B08RMSHYGG#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "57410824-5a1c-4b03-b2db-dacb397d5313",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "48e949b5-706f-4973-8e8c-d4f3d55d3907",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:28.868Z",
+        "updated_at": ""
+    },
+    {
+        "id": "7bdc93d6-6fd7-4893-a0ce-068bb3e6d03d",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/problema-dos-tr%C3%AAs-corpos/dp/8556510205",
+        "customer_reviews_link": "https://www.amazon.com.br/problema-dos-tr%C3%AAs-corpos/dp/8556510205#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "a7bab120-b837-41c8-ba1b-7c09a7bccf86",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "6e9dd901-d75a-4316-8e6e-feaad2d5f157",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:29.081Z",
+        "updated_at": ""
+    },
+    {
+        "id": "ee5ebf69-6360-4f2f-87cf-b0c1475f133f",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/floresta-sombria-Cixin-Liu/dp/8556510507",
+        "customer_reviews_link": "https://www.amazon.com.br/floresta-sombria-Cixin-Liu/dp/8556510507#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "f0891b8a-a30d-4a1a-be90-7fbe14bb1e44",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "0d3a7b7a-043e-49cd-8994-a78fde376ff9",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:29.302Z",
+        "updated_at": ""
+    },
+    {
+        "id": "44caf7df-dd45-44c0-a6f6-258b5e953eca",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/fim-morte-3-Cixin-Liu/dp/8556510744",
+        "customer_reviews_link": "https://www.amazon.com.br/fim-morte-3-Cixin-Liu/dp/8556510744#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "2550609a-e335-4173-8a45-3a40f086ba84",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "147a4d6b-afec-4c2e-a81e-e4ce9d7b106a",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:29.521Z",
+        "updated_at": ""
+    },
+    {
+        "id": "55f47320-0915-4a2f-b8ef-0532c820affb",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Starsight-Veja-al%C3%A9m-das-estrelas/dp/8542219600",
+        "customer_reviews_link": "https://www.amazon.com.br/Starsight-Veja-al%C3%A9m-das-estrelas/dp/8542219600#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "7265a6a1-3904-463a-9653-5f9be756efa5",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "cfeacc7d-25a9-4591-84bd-aa8a556bdd89",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:29.740Z",
+        "updated_at": ""
+    },
+    {
+        "id": "1d9c7f47-01bf-404a-b7f9-42bc6d04dfc7",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Skyward-Conquiste-estrelas-Brandon-Sanderson-ebook/dp/B07KW9X5XQ",
+        "customer_reviews_link": "https://www.amazon.com.br/Skyward-Conquiste-estrelas-Brandon-Sanderson-ebook/dp/B07KW9X5XQ#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "bb88859a-3da3-4d74-984f-2b360e1bc7b0",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "c940ff69-9108-4941-bddc-8a10006e273d",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:29.968Z",
+        "updated_at": ""
+    },
+    {
+        "id": "b9ca4436-ed86-47c2-9bb8-d0d9f564cde4",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/sol-%C3%A9-para-todos/dp/8503009498",
+        "customer_reviews_link": "https://www.amazon.com.br/sol-%C3%A9-para-todos/dp/8503009498#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "8c340dbe-00aa-4405-9963-d99142900b66",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "6057f017-3776-4189-b72c-91c34f9624b6",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:30.193Z",
+        "updated_at": ""
+    },
+    {
+        "id": "632f2dd3-6aa3-4b81-85b7-070f02964271",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/nome-do-vento-Patrick-Rothfuss/dp/8599296493",
+        "customer_reviews_link": "https://www.amazon.com.br/nome-do-vento-Patrick-Rothfuss/dp/8599296493#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "0ab22be8-c26e-4fe7-bc4d-ff8e0721b123",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "5869a951-4938-40cc-b17a-9599f3f9f87f",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:30.425Z",
+        "updated_at": ""
+    },
+    {
+        "id": "942642c7-2934-4c6b-b06b-39f246a2ae2e",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/temor-do-s%C3%A1bio-Patrick-Rothfuss/dp/8580410320",
+        "customer_reviews_link": "https://www.amazon.com.br/temor-do-s%C3%A1bio-Patrick-Rothfuss/dp/8580410320#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "cbec07ec-3dda-41aa-b533-bec0597f3f66",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "bceb896d-5f13-4962-affc-f1f7bce6c058",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:30.635Z",
+        "updated_at": ""
+    },
+    {
+        "id": "f54ef283-57d3-42e8-9726-fa02d0f6e3e7",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/m%C3%BAsica-do-sil%C3%AAncio-Patrick-Rothfuss/dp/8580413532",
+        "customer_reviews_link": "https://www.amazon.com.br/m%C3%BAsica-do-sil%C3%AAncio-Patrick-Rothfuss/dp/8580413532#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "b52941a6-d274-4969-9275-eb58af5d3dc1",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "caed906a-bea6-4379-ba7c-f4020305d803",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:30.850Z",
+        "updated_at": ""
+    },
+    {
+        "id": "604e6e29-2666-4d58-aade-239c852cbe3f",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Maus-Art-Spiegelman/dp/8535906282",
+        "customer_reviews_link": "https://www.amazon.com.br/Maus-Art-Spiegelman/dp/8535906282#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "91c3d4c7-097b-4509-a911-807446f96b22",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "c123824f-3e10-4f94-8874-ca6645f29dff",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:31.068Z",
+        "updated_at": ""
+    },
+    {
+        "id": "10952080-df29-4141-b35e-6654a8d1337a",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Alquimista-Paulo-Coelho-ebook/dp/B00AQI6C6M",
+        "customer_reviews_link": "https://www.amazon.com.br/Alquimista-Paulo-Coelho-ebook/dp/B00AQI6C6M#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "e8bf93f6-1a9f-449b-9110-adffd48c5843",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "030c9c1b-8af0-4824-a569-e68535ab7dff",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:31.282Z",
+        "updated_at": ""
+    },
+    {
+        "id": "08dcd24b-70bc-43ba-9f29-59a2f5723fb6",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Ponto-impacto-Dan-Brown-ebook/dp/B00A3D9K28",
+        "customer_reviews_link": "https://www.amazon.com.br/Ponto-impacto-Dan-Brown-ebook/dp/B00A3D9K28#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "827e13bd-925a-4fbf-a287-54e7c1c13f3d",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "d39f1a53-f979-4303-bd03-c42f4b7b2c52",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:31.495Z",
+        "updated_at": ""
+    },
+    {
+        "id": "88a18acc-6f65-41c1-b8b1-48a332b61077",
+        "title": "",
+        "slug": "",
+        "cover_image": "",
+        "link_amazon": "https://www.amazon.com.br/Fortaleza-digital-Dan-Brown-ebook/dp/B00Y14YVBK/",
+        "customer_reviews_link": "https://www.amazon.com.br/Fortaleza-digital-Dan-Brown-ebook/dp/B00Y14YVBK/#customerReviews",
+        "subtitle": "",
+        "release_date": "",
+        "rating": {
+            "score": "",
+            "total_customer_reviews": ""
+        },
+        "total_pages": "",
+        "author": {
+            "id": "3416c6b5-21c8-405e-8ece-ad20b1eb46df",
+            "name": "",
+            "slug": ""
+        },
+        "publisher": {
+            "id": "fa42b406-303d-491b-9a7b-62cf0a0f9ac1",
+            "name": "",
+            "slug": ""
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:20:31.726Z",
         "updated_at": ""
     }
 ]

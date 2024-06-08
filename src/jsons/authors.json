@@ -1,12 +1,162 @@
 [
     {
-        "id": "28aedd88-d649-4ca0-8803-7cda3221398f",
+        "id": "0782a482-b5b0-4f58-99d8-47b166216d6a",
         "name": "Marco AurélioEDIPRO",
         "slug": "marco-aurelioedipro"
     },
     {
-        "id": "1e003d42-ac6a-409a-9e85-8cad9c87d4b6",
+        "id": "192470aa-2143-476a-82f4-31ef7445d75c",
         "name": "Sêneca",
         "slug": "seneca"
+    },
+    {
+        "id": "17f4f93a-cd2a-49ae-8586-19d052d0e6a1",
+        "name": "Epicteto",
+        "slug": "epicteto"
+    },
+    {
+        "id": "a551afa0-bd95-4e70-abd0-b13f42578eb4",
+        "name": "Dale Carnegie",
+        "slug": "dale-carnegie"
+    },
+    {
+        "id": "b13af587-c214-459c-a3fb-1c71d93308de",
+        "name": "Alan Moore",
+        "slug": "alan-moore"
+    },
+    {
+        "id": "0ce36b93-854c-41c2-aac1-af4992da286b",
+        "name": "Bruno Zago",
+        "slug": "bruno-zago"
+    },
+    {
+        "id": "19b32da1-4b7f-44b5-bd39-64376c977a67",
+        "name": "Jostein Gaarder",
+        "slug": "jostein-gaarder"
+    },
+    {
+        "id": "f2befa3c-fcb5-419d-9153-92b7c0223174",
+        "name": "J.R.R. Tolkien",
+        "slug": "jrr-tolkien"
+    },
+    {
+        "id": "e5d5ce51-73f8-4429-a20b-7199a65500ac",
+        "name": "Lewis Carroll",
+        "slug": "lewis-carroll"
+    },
+    {
+        "id": "65483126-ea8b-4dfa-b8bf-9f10c5c13643",
+        "name": "Robert E. Howard",
+        "slug": "robert-e-howard"
+    },
+    {
+        "id": "643cd65a-a772-4fd1-b7f5-416516d274be",
+        "name": "Keum Suk Gendry-Kim",
+        "slug": "keum-suk-gendry-kim"
+    },
+    {
+        "id": "a0fecc8d-7a3c-4de7-88c8-5fa328f85d74",
+        "name": "Junji Ito",
+        "slug": "junji-ito"
+    },
+    {
+        "id": "966b0ab0-7bad-47bc-af2b-c68ce944e9c6",
+        "name": "Hiroshi Hirata",
+        "slug": "hiroshi-hirata"
+    },
+    {
+        "id": "052149a6-a0f9-4a0b-8d63-774995c4d75a",
+        "name": "Christophe Chabouté",
+        "slug": "christophe-chaboute"
+    },
+    {
+        "id": "1de51501-161e-435f-bfba-71319d6ec409",
+        "name": "Kevin EastmanPeter Laird",
+        "slug": "kevin-eastmanpeter-laird"
+    },
+    {
+        "id": "ae658ade-c32a-4757-99eb-ed8dc0f70c41",
+        "name": "Helena P. Blavatsky",
+        "slug": "helena-p-blavatsky"
+    },
+    {
+        "id": "ccf9b8df-94a5-49a3-a2b7-2fff9429af62",
+        "name": "Edwin Arnold",
+        "slug": "edwin-arnold"
+    },
+    {
+        "id": "22d5cf86-b15e-47a5-9a9a-e7bc31cb5ee5",
+        "name": "Albert Camus",
+        "slug": "albert-camus"
+    },
+    {
+        "id": "5833ebe4-4ae5-4094-b5a2-31dfd45022cb",
+        "name": "Haemin Sunim",
+        "slug": "haemin-sunim"
+    },
+    {
+        "id": "f1cda00e-fff3-47d8-ab38-eae54bd92499",
+        "name": "Zygmunt Bauman",
+        "slug": "zygmunt-bauman"
+    },
+    {
+        "id": "491a4296-ffc3-4979-a3f7-909c4c83d77d",
+        "name": "Byung-Chul Han",
+        "slug": "byung-chul-han"
+    },
+    {
+        "id": "d8ea1689-6988-46c1-89d6-e7b8e9882d93",
+        "name": "Luciano Santos",
+        "slug": "luciano-santos"
+    },
+    {
+        "id": "cb5c413e-6065-4753-a754-f51f224979fb",
+        "name": "Isaac Asimov",
+        "slug": "isaac-asimov"
+    },
+    {
+        "id": "ff7d3768-312d-445c-acbe-586376383d03",
+        "name": "",
+        "slug": ""
+    },
+    {
+        "id": "108faa6a-2bf1-44b1-bb54-f11898397221",
+        "name": "Osamu Tezuka",
+        "slug": "osamu-tezuka"
+    },
+    {
+        "id": "a9aa6afd-a0ed-4bd6-a2fc-d87ad1d252a1",
+        "name": "Khalil Gibran",
+        "slug": "khalil-gibran"
+    },
+    {
+        "id": "5bb375dc-403e-4025-a800-038e442ed05a",
+        "name": "Anônimo",
+        "slug": "anonimo"
+    },
+    {
+        "id": "81565ebf-3a73-4e0c-85bf-0a21e05e70ed",
+        "name": "Neil Gaiman",
+        "slug": "neil-gaiman"
+    },
+    {
+        "id": "2831bccf-72a7-4170-8d44-35c0cf29e53c",
+        "name": "Usamaru FuruyaOsamu Dazai",
+        "slug": "usamaru-furuyaosamu-dazai"
+    },
+    {
+        "id": "2ff0d67c-d935-49b2-9067-dc93718843b1",
+        "name": "Júlio Verne",
+        "slug": "julio-verne"
+    },
+    {
+        "id": "53b6e088-d9c5-4d31-a9b6-168c395a37c5",
+        "name": "Christopher Vogler",
+        "slug": "christopher-vogler"
+    },
+    {
+        "id": "511bfe3b-1d2a-407c-afe7-b6af6ccabe26",
+        "name": "Dan Brown",
+        "slug": "dan-brown"
     }
 ]
