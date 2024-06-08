@@ -2,6 +2,8 @@
  	<h1 align="center">Web Scraping Books Amazon</h1>
 </div>
 
+![gif-web-scraping-books-amazon](https://github.com/AlexGalhardo/web-scraping-books-amazon/assets/19540357/220891f0-8deb-4466-8ae9-ce9dcce8994b)
+
 ## Introduction
 
 - A personal project I created to learn and improve my skills in web scraping.
