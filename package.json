@@ -1,13 +1,17 @@
 {
-  "name": "web-scrapping-books-amazon",
-  "version": "1.0.0",
-  "main": "start.mjs",
-  "scripts": {
-    "start": "node start.mjs"
-  },
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
-    "puppeteer": "^21.7.0",
-    "slugify": "^1.6.6"
-  }
+	"name": "web-scrapping-books-amazon",
+	"scripts": {
+		"start": "bun run src/start.ts",
+		"format": "prettier --write \"src/**/*.ts\"",
+		"prepare": "husky"
+	},
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
+		"puppeteer": "^22.10.0",
+		"slugify": "^1.6.6"
+	},
+	"devDependencies": {
+		"husky": "^9.0.11",
+		"prettier": "^3.3.1"
+	}
 }

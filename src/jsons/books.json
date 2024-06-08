@@ -1,0 +1,58 @@
+[
+    {
+        "id": "06fe5fca-b8c2-4be8-a0e3-ff121515b54f",
+        "title": "Meditações de Marco Aurélio: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+        "slug": "meditacoes-de-marco-aurelio-edicao-com-postais-marcador-colecao-grandes-mestres-do-estoicismo",
+        "cover_image": "https://m.media-amazon.com/images/I/41bQU67zLnL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Medita%C3%A7%C3%B5es-Marco-Aur%C3%A9lio/dp/8552100916",
+        "customer_reviews_link": "https://www.amazon.com.br/Medita%C3%A7%C3%B5es-Marco-Aur%C3%A9lio/dp/8552100916#customerReviews",
+        "subtitle": "Capa comum – Edição especial, 31 outubro 2019",
+        "release_date": "31 outubro 2019",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "7.889"
+        },
+        "total_pages": "160 páginas",
+        "author": {
+            "id": "28aedd88-d649-4ca0-8803-7cda3221398f",
+            "name": "Marco AurélioEDIPRO",
+            "slug": "marco-aurelioedipro"
+        },
+        "publisher": {
+            "id": "c5b4cb7d-74ae-4139-9272-94d34c4b1e19",
+            "name": "Edipro",
+            "slug": "edipro"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:13:29.959Z",
+        "updated_at": ""
+    },
+    {
+        "id": "001f72de-f794-46f8-9352-e3d97645b43d",
+        "title": "Sobre a brevidade da vida: Edição Bilíngue com postal + marcador (Coleção Grandes Mestres do Estoicismo)",
+        "slug": "sobre-a-brevidade-da-vida-edicao-bilingue-com-postal-marcador-colecao-grandes-mestres-do-estoicismo",
+        "cover_image": "https://m.media-amazon.com/images/I/41vcWMfhzJL._SY445_SX342_.jpg",
+        "link_amazon": "https://www.amazon.com.br/Sobre-brevidade-vida-Bil%C3%ADngue-marcador/dp/6556600164",
+        "customer_reviews_link": "https://www.amazon.com.br/Sobre-brevidade-vida-Bil%C3%ADngue-marcador/dp/6556600164#customerReviews",
+        "subtitle": "Capa comum – Edição especial, 30 novembro 2020",
+        "release_date": "30 novembro 2020",
+        "rating": {
+            "score": "4,8",
+            "total_customer_reviews": "2.296"
+        },
+        "total_pages": "96 páginas",
+        "author": {
+            "id": "1e003d42-ac6a-409a-9e85-8cad9c87d4b6",
+            "name": "Sêneca",
+            "slug": "seneca"
+        },
+        "publisher": {
+            "id": "6fdaf146-91de-4aa6-9958-978cedab40cf",
+            "name": "Edipro",
+            "slug": "edipro"
+        },
+        "summary": "",
+        "created_at": "2024-06-08T14:13:32.660Z",
+        "updated_at": ""
+    }
+]

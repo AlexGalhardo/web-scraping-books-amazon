@@ -1,43 +1,36 @@
 <div align="center">
- <h1 align="center">Web Scraping Books Amazon</h1>
+ 	<h1 align="center">Web Scraping Books Amazon</h1>
 </div>
 
 ## Introduction
 
-* A personal project I created to learn web scraping. It's a simple script who get data information from HTML DOM Amazon.com books pages.
+- A personal project I created to learn and improve my skills in web scraping.
+- It's a simple script who get data information from HTML DOM Amazon.com.br books pages.
 
-## Setup
+## Development Setup Local
 
-* Clone this repository
+- Install Bun: <https://bun.sh/docs/installation>
 
-<!---->
-
+1. Clone this repository
+```bash
+git clone git@github.com:AlexGalhardo/web-scraping-books-amazon.git
 ```
-git clone https://github.com/AlexGalhardo/web-scraping-books-amazon
-```
 
-* Enter repository
-
-<!---->
-
-```
+2. Enter repository
+```bash
 cd web-scraping-books-amazon/
 ```
 
-* Install dependencies
-
-<!---->
-
-```
-npm install
+3. Install dependencies
+```bash
+bun install
 ```
 
-* Start
+4. Change array **src/booksToFind.ts** with the urls of the books you want to find. For now, this script only works for **amazon.com.br** pages
 
-<!---->
-
-```
-npm start
+5. Start scrapping
+```bash
+bun start
 ```
 
 ## License
